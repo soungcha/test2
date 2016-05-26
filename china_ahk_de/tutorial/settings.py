@@ -18,8 +18,8 @@ NEWSPIDER_MODULE = 'tutorial.spiders'
 # start MySQL database configure setting
 MYSQL_HOST = 'localhost'
 MYSQL_DBNAME = 'mysearch'
-MYSQL_USER = 'root'
-MYSQL_PASSWD = 'Root~1234'
+MYSQL_USER = 'search'
+MYSQL_PASSWD = 'Search'
 # end of MySQL database configure setting
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent

@@ -9,10 +9,10 @@ import MySQLdb.cursors
 
 class JsonWithEncodingCnblogsPipeline(object):
     def __init__(self):
-        self.file = codecs.open('cnblogs2.json', 'w', encoding='utf-8')
+        self.file = codecs.open('cnblogs3.json', 'w', encoding='utf-8')
     def process_item(self, item, spider):
         line = json.dumps(dict(item)) + '\n'  
-        # print line  
+        #print line
         self.file.write(line.decode("unicode_escape"))  
         return item 
     def spider_closed(self, spider):
@@ -24,6 +24,7 @@ class MySQLStoreCnblogsPipeline(object):
     
     @classmethod
     def from_settings(cls, settings):
+        print "i was there2"
         dbargs = dict(
             host=settings['MYSQL_HOST'],
             db=settings['MYSQL_DBNAME'],
@@ -45,7 +46,7 @@ class MySQLStoreCnblogsPipeline(object):
 
     def _do_upinsert(self, conn, item, spider):
         linkmd5id = self._get_linkmd5id(item)
-        #print linkmd5id
+        # print linkmd5id
         now = datetime.utcnow().replace(microsecond=0).isoformat(' ')
         conn.execute("""
                 select 1 from cnblogsinfo where linkmd5id = %s
@@ -56,21 +57,21 @@ class MySQLStoreCnblogsPipeline(object):
             conn.execute("""
                 update cnblogsinfo set title = %s, description = %s, link = %s, listUrl = %s, updated = %s where linkmd5id = %s
             """, (item['title'], item['phone'], item['imgurl'], item['name'], now, linkmd5id))
-            #print """
-            #    update cnblogsinfo set title = %s, description = %s, link = %s, listUrl = %s, updated = %s where linkmd5id = %s
-            #""", (item['title'], item['desc'], item['link'], item['listUrl'], now, linkmd5id)
+            # print """
+            #     update cnblogsinfo set title = %s, description = %s, link = %s, listUrl = %s, updated = %s where linkmd5id = %s
+            # """, (item['title'], item['phone'], item['imgurl'], item['name'], now, linkmd5id)
         else:
             conn.execute("""
                 insert into cnblogsinfo(linkmd5id, title, description, link, listUrl, updated) 
                 values(%s, %s, %s, %s, %s, %s)
             """, (linkmd5id, item['title'], item['phone'], item['imgurl'], item['name'], now))
-            #print """
-            #    insert into cnblogsinfo(linkmd5id, title, description, link, listUrl, updated)
-            #    values(%s, %s, %s, %s, %s, %s)
-            #""", (linkmd5id, item['title'], item['desc'], item['link'], item['listUrl'], now)
+            # print """
+            #     insert into cnblogsinfo(linkmd5id, title, description, link, listUrl, updated)
+            #     values(%s, %s, %s, %s, %s, %s)
+            # """, (linkmd5id, item['title'], item['phone'], item['imgurl'], item['name'], now)
 
     def _get_linkmd5id(self, item):
-        return md5(item['link']).hexdigest()
+        return md5(item['identify']).hexdigest()
 
     def _handle_error(self, failue, item, spider):
         log.err(failure)

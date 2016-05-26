@@ -11,7 +11,7 @@ class DmozSpider(scrapy.Spider):
     start_urls = [
         #"http://www.dmoz.org/Computers/Programming/Languages/Python/Books/",
         #"http://www.dmoz.org/Computers/Programming/Languages/Python/Resources/"
-        "http://china.ahk.de/cn/about-us/contact-us-in/north-china/" 
+        "http://china.ahk.de/cn/about-us/contact-us-in/south-southwest-china/#c113010" 
     ]
 
     def parse(self, response):
@@ -30,18 +30,16 @@ class DmozSpider(scrapy.Spider):
             
 
 
-            item['name'] = [n.encode('utf-8') for n in name] 
-            item['title'] = [t.encode('utf-8') for t in title]  
-            item['phone'] = [p.encode('utf-8') for p in phone] 
-            item['imgurl'] = "http://china.ahk.de/"+str(imgurl)
+            item['name'] = name[0].encode('utf-8') if len(name)>0 else ""
+            item['title'] = title[0].encode('utf-8') if len(title)>0 else "" 
+            item['phone'] = phone[0].encode('utf-8') if len(phone)>0 else ""
+            item['imgurl'] = "http://china.ahk.de/"+ imgurl[0].encode('utf-8') if len(imgurl)>0 else ""
             item['email'] = ""
             item['srclink'] = "http://china.ahk.de/cn/about-us/contact-us-in/north-china/"
-            item["identify"] = item['phone']
+            item["identify"] = item['phone'] + item['name']
             item["profile"] = ""
 
-            items.append(item)  
-  
-            #记录  
+            items.append(item) 
             #log.msg("Appending item...",level='INFO')  
   
   
