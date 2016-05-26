@@ -35,13 +35,13 @@ class MySQLStoreCnblogsPipeline(object):
         dbpool = adbapi.ConnectionPool('MySQLdb', **dbargs)
         return cls(dbpool)
 
-    #pipeline默认调用
+    #pipeline
     def process_item(self, item, spider):
         d = self.dbpool.runInteraction(self._do_upinsert, item, spider)
         d.addErrback(self._handle_error, item, spider)
         d.addBoth(lambda _: item)
         return d
-    #将每行更新或写入数据库中
+
     def _do_upinsert(self, conn, item, spider):
         linkmd5id = self._get_linkmd5id(item)
         #print linkmd5id
@@ -67,10 +67,10 @@ class MySQLStoreCnblogsPipeline(object):
             #    insert into cnblogsinfo(linkmd5id, title, description, link, listUrl, updated)
             #    values(%s, %s, %s, %s, %s, %s)
             #""", (linkmd5id, item['title'], item['desc'], item['link'], item['listUrl'], now)
-    #获取url的md5编码
+
     def _get_linkmd5id(self, item):
         #url进行md5处理，为避免重复采集设计
         return md5(item['link']).hexdigest()
-    #异常处理
+
     def _handle_error(self, failue, item, spider):
         log.err(failure)
