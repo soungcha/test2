@@ -17,3 +17,4 @@ class DmozItem(scrapy.Item):
     imgurl = scrapy.Field()
     profile = scrapy.Field()
     srclink = scrapy.Field()
+    location = scrapy.Field()

@@ -20,11 +20,12 @@ class JsonWithEncodingCnblogsPipeline(object):
 
 class MySQLStoreCnblogsPipeline(object):
     def __init__(self, dbpool):
+        #print "i was th2"
         self.dbpool = dbpool
     
     @classmethod
     def from_settings(cls, settings):
-        print "i was there2"
+        #print "i was there2"
         dbargs = dict(
             host=settings['MYSQL_HOST'],
             db=settings['MYSQL_DBNAME'],
@@ -39,36 +40,42 @@ class MySQLStoreCnblogsPipeline(object):
 
     #pipeline
     def process_item(self, item, spider):
+        #print "i was thdd"
         d = self.dbpool.runInteraction(self._do_upinsert, item, spider)
         d.addErrback(self._handle_error, item, spider)
         d.addBoth(lambda _: item)
         return d
 
     def _do_upinsert(self, conn, item, spider):
+        #print "i was th2sdsd"
         linkmd5id = self._get_linkmd5id(item)
-        # print linkmd5id
+        #print linkmd5id
         now = datetime.utcnow().replace(microsecond=0).isoformat(' ')
         conn.execute("""
-                select 1 from cnblogsinfo where linkmd5id = %s
+                select 1 from t_talents where linkmd5id = %s
         """, (linkmd5id, ))
         ret = conn.fetchone()
 
         if ret:
             conn.execute("""
-                update cnblogsinfo set title = %s, description = %s, link = %s, listUrl = %s, updated = %s where linkmd5id = %s
-            """, (item['title'], item['phone'], item['imgurl'], item['name'], now, linkmd5id))
+                update t_talents set identify=%s, title = %s, name = %s, phone = %s,email = %s, location = %s, 
+                imgurl=%s, srclink = %s, profile=%s, updated = %s where linkmd5id = %s
+            """, (item['identify'], item['title'], item['name'], item['phone'], item['email'], item['location'],item['imgurl'], item['srclink'],item['profile'], now, linkmd5id))
             # print """
-            #     update cnblogsinfo set title = %s, description = %s, link = %s, listUrl = %s, updated = %s where linkmd5id = %s
-            # """, (item['title'], item['phone'], item['imgurl'], item['name'], now, linkmd5id)
+            #      update t_talents set identify=%s, title = %s, name = %s, phone = %s,email = %s, location = %s, 
+            #     imgurl=%s, srclink = %s, profile=%s, updated = %s where linkmd5id = %s
+            # """, (item['identify'], item['title'], item['name'], item['phone'], item['email'], item['location'],item['imgurl'], item['srclink'],item['profile'], now, linkmd5id)
         else:
             conn.execute("""
-                insert into cnblogsinfo(linkmd5id, title, description, link, listUrl, updated) 
-                values(%s, %s, %s, %s, %s, %s)
-            """, (linkmd5id, item['title'], item['phone'], item['imgurl'], item['name'], now))
+                insert into t_talents(linkmd5id, identify, title, name, phone, email,
+                    location, imgurl, srclink, profile, updated) 
+                values(%s, %s, %s, %s, %s, %s, %s, %s, %s,%s,%s)
+            """, (linkmd5id, item['identify'], item['title'], item['name'], item['phone'], item['email'],item['location'], item['imgurl'], item['srclink'], item['profile'], now))
             # print """
-            #     insert into cnblogsinfo(linkmd5id, title, description, link, listUrl, updated)
-            #     values(%s, %s, %s, %s, %s, %s)
-            # """, (linkmd5id, item['title'], item['phone'], item['imgurl'], item['name'], now)
+            #     insert into t_talents(linkmd5id, identify, title, name, phone, email,
+            #         location, imgurl, srclink, profile, updated) 
+            #     values(%s, %s, %s, %s, %s, %s, %s, %s, %s,%s)
+            # """, (linkmd5id, item['identify'], item['title'], item['name'], item['phone'], item['email'],item['location'], item['imgurl'], item['srclink'], item['profile'], now)
 
     def _get_linkmd5id(self, item):
         return md5(item['identify']).hexdigest()
