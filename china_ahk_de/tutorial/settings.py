@@ -74,8 +74,13 @@ ROBOTSTXT_OBEY = True
 #ITEM_PIPELINES = {
 #    'tutorial.pipelines.SomePipeline': 300,
 #}
+# ITEM_PIPELINES = {
+#    'tutorial.pipelines.TutorialPipeline': 300,
+# }
+
 ITEM_PIPELINES = {
-   'tutorial.pipelines.TutorialPipeline': 300,
+    'tutorial.pipelines.JsonWithEncodingCnblogsPipeline': 300,
+    'tutorial.pipelines.MySQLStoreCnblogsPipeline': 300,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
