@@ -15,6 +15,13 @@ SPIDER_MODULES = ['tutorial.spiders']
 NEWSPIDER_MODULE = 'tutorial.spiders'
 
 
+# start MySQL database configure setting
+MYSQL_HOST = 'localhost'
+MYSQL_DBNAME = 'mysearch'
+MYSQL_USER = 'root'
+MYSQL_PASSWD = 'root'
+# end of MySQL database configure setting
+
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'tutorial (+http://www.yourdomain.com)'
 

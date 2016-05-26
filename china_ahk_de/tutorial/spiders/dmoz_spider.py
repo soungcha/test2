@@ -27,13 +27,17 @@ class DmozSpider(scrapy.Spider):
             title = site.css("p.cp-list__item-function").xpath("text()").extract()
             phone = site.css("span.phone").xpath("text()").extract()
             imgurl = site.css("img").xpath("@src").extract()
+            
+
 
             item['name'] = [n.encode('utf-8') for n in name] 
             item['title'] = [t.encode('utf-8') for t in title]  
             item['phone'] = [p.encode('utf-8') for p in phone] 
-            item['imgurl'] = [l.encode('utf-8') for l in imgurl]
+            item['imgurl'] = "http://china.ahk.de/"+str(imgurl)
             item['email'] = ""
             item['srclink'] = "http://china.ahk.de/cn/about-us/contact-us-in/north-china/"
+            item["identify"] = item['phone']
+            item["profile"] = ""
 
             items.append(item)  
   

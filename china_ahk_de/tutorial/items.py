@@ -9,6 +9,7 @@ import scrapy
 
 
 class DmozItem(scrapy.Item):
+    identify = scrapy.Field()
     name = scrapy.Field()
     title = scrapy.Field()
     phone = scrapy.Field()
