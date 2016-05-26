@@ -69,7 +69,6 @@ class MySQLStoreCnblogsPipeline(object):
             #""", (linkmd5id, item['title'], item['desc'], item['link'], item['listUrl'], now)
 
     def _get_linkmd5id(self, item):
-        #url进行md5处理，为避免重复采集设计
         return md5(item['link']).hexdigest()
 
     def _handle_error(self, failue, item, spider):
