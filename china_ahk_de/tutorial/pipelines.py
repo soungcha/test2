@@ -9,11 +9,12 @@ import MySQLdb.cursors
 
 class JsonWithEncodingCnblogsPipeline(object):
     def __init__(self):
-        self.file = codecs.open('cnblogs.json', 'w', encoding='utf-8')
+        self.file = codecs.open('cnblogs2.json', 'w', encoding='utf-8')
     def process_item(self, item, spider):
-        line = json.dumps(dict(item), ensure_ascii=False) + "\n"
-        self.file.write(line)
-        return item
+        line = json.dumps(dict(item)) + '\n'  
+        # print line  
+        self.file.write(line.decode("unicode_escape"))  
+        return item 
     def spider_closed(self, spider):
         self.file.close()
 
