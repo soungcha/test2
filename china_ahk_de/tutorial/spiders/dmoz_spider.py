@@ -14,8 +14,6 @@ class DmozSpider(scrapy.Spider):
         "http://china.ahk.de/cn/about-us/contact-us-in/north-china/",
         "http://china.ahk.de/cn/about-us/contact-us-in/east-china/",
         "http://china.ahk.de/cn/about-us/contact-us-in/south-southwest-china/",
-        "http://china.ahk.de/cn/about-us/contact-us-in/hong-kong/",
-        "http://china.ahk.de/cn/about-us/contact-us-in/taiwan/",
         "http://china.ahk.de/cn/about-us/contact-us-in/germany/"
 
     ]
@@ -26,6 +24,7 @@ class DmozSpider(scrapy.Spider):
         sites = sel.css(".cp-list__item")
         location = sel.css("h1.grey_underline").xpath("text()").extract()
         thelocation = location[0].encode('utf-8') if len(location)>0 else ""
+        srcurl = response.url
         items = []  
         i = 0  
         for site in sites:
@@ -44,7 +43,7 @@ class DmozSpider(scrapy.Spider):
                 item['phone'] = phone[0].encode('utf-8') if len(phone)>0 else ""
                 item['imgurl'] = "http://china.ahk.de/"+ imgurl[0].encode('utf-8') if len(imgurl)>0 else ""
                 item['email'] = ""
-                item['srclink'] = "http://china.ahk.de/cn/about-us/contact-us-in/north-china/"
+                item['srclink'] = srcurl
                 item["identify"] = item['phone'] + item['name']
                 item["profile"] = ""
                 item['location'] = thelocation
