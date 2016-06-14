@@ -1,0 +1,3135 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html lang="en" class="ie ie6 lte9 lte8 lte7 os-win"> <![endif]-->
+<!--[if IE 7]> <html lang="en" class="ie ie7 lte9 lte8 lte7 os-win"> <![endif]-->
+<!--[if IE 8]> <html lang="en" class="ie ie8 lte9 lte8 os-win"> <![endif]-->
+<!--[if IE 9]> <html lang="en" class="ie ie9 lte9 os-win"> <![endif]-->
+<!--[if gt IE 9]> <html lang="en" class="os-win"> <![endif]-->
+<!--[if !IE]><!-->
+<html class="os-win" lang="en" webdriver="true">
+ <!--<![endif]-->
+ <head>
+  <meta content="//www.linkedin.com/mob/tracking" name="globalTrackingUrl"/>
+  <meta content="profile" name="globalTrackingAppName"/>
+  <meta content="webTracking" name="globalTrackingAppId"/>
+  <meta content="https://static.licdn.com/scds/concat/common/js?h=2jds9coeh4w78ed9wblscv68v-ebbt2vixcc5qz0otts5io08xv&amp;fc=2" name="lnkd-track-json-lib"/>
+  <meta content="e8ahuijjUxRQyQnTQSsAAA==" name="treeID"/>
+  <meta content="profile" name="appName"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="23928c4e-8588-41fe-af79-4d47e6791ca9" name="pageImpressionID"/>
+  <meta content="nprofile_view_nonself" name="pageKey"/>
+  <meta content="/analytics/noauthtracker" name="analyticsURL"/>
+  <link href="https://www.linkedin.com/uas/openid/authorize" rel="openid.server"/>
+  <link href="https://static.licdn.com/scds/common/u/img/icon/apple-touch-icon.png" rel="apple-touch-icon-precomposed"/>
+  <!--[if lte IE 8]>
+  <link rel="shortcut icon" href="https://static.licdn.com/scds/common/u/images/logos/favicons/v1/16x16/favicon.ico">
+<![endif]-->
+  <!--[if IE 9]>
+  <link rel="shortcut icon" href="https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico">
+<![endif]-->
+  <link href="https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico" rel="icon"/>
+  <meta content="https://static.licdn.com/scds/common/u/images/logos/linkedin/logo-in-win8-tile-144_v1.png" name="msapplication-TileImage"/>
+  <meta content="#0077B5" name="msapplication-TileColor"/>
+  <meta content="LinkedIn" name="application-name"/>
+  <!--[if IE 8]><script src="https://static.licdn.com/scds/common/u/lib/polyfill/1.0.2/ie8-polyfill.min.js"></script><![endif]-->
+  <!--[if IE 9]><script src="https://static.licdn.com/scds/common/u/lib/polyfill/1.0.2/ie9-polyfill.min.js"></script><![endif]-->
+  <link href="Loh%20Weihan%20_%20LinkedIn_files/css.css" rel="stylesheet" type="text/css"/>
+  <meta content="https://static.licdn.com/scds/concat/common/js?v=build-1198_8_56439-prod&amp;f=lib%2Fdust%2Fdust-li-experimental%2Fintl%2FIntl.min&amp;f=lib%2Fdust%2Fdust-li-experimental%2Fintl%2Flocale_data%2Fen_US.min&amp;fc=2" name="IntlJsUrl"/>
+  <meta content="true" name="remote-nav-init-marker"/>
+  <link href="Loh%20Weihan%20_%20LinkedIn_files/css_002.css" rel="stylesheet" type="text/css"/>
+  <title>
+   Loh Weihan | LinkedIn
+  </title>
+  <link href="Loh%20Weihan%20_%20LinkedIn_files/css_005.css" rel="stylesheet" type="text/css"/>
+  <link href="Loh%20Weihan%20_%20LinkedIn_files/css_006.css" rel="stylesheet" type="text/css"/>
+  <link href="Loh%20Weihan%20_%20LinkedIn_files/css_003.css" rel="stylesheet" type="text/css"/>
+  <link href="Loh%20Weihan%20_%20LinkedIn_files/css_004.css" rel="stylesheet" type="text/css"/>
+  <link href="Loh%20Weihan%20_%20LinkedIn_files/css_008.css" rel="stylesheet" type="text/css"/>
+  <link href="Loh%20Weihan%20_%20LinkedIn_files/css_007.css" rel="stylesheet" type="text/css"/>
+ </head>
+ <body class="member v2 chrome-v5 chrome-v5-responsive sticky-bg js " dir="ltr" id="pagekey-nprofile_view_nonself">
+  <div class="hovercard-callout callout-left whats-this-v2" id="callout-overlay" style="visibility: visible; z-index: 10; width: 240px; left: 763px; top: 229px;">
+   <div class="bd">
+   </div>
+  </div>
+  <div class="yui-module yui-overlay yui-overlay-hidden" id="lui-panel-body" style="z-index: 1007; visibility: hidden;">
+  </div>
+  <div class="typeahead-results-container endorse-skills-ta-results yui-ac-container">
+   <div class="yui-ac-content" style="display: none;">
+    <div class="yui-ac-hd" style="display: none;">
+    </div>
+    <div class="yui-ac-bd">
+     <ul>
+      <li style="display: none;">
+      </li>
+      <li style="display: none;">
+      </li>
+      <li style="display: none;">
+      </li>
+      <li style="display: none;">
+      </li>
+      <li style="display: none;">
+      </li>
+      <li style="display: none;">
+      </li>
+      <li style="display: none;">
+      </li>
+      <li style="display: none;">
+      </li>
+      <li style="display: none;">
+      </li>
+      <li style="display: none;">
+      </li>
+     </ul>
+    </div>
+    <div class="yui-ac-ft" style="display: none;">
+    </div>
+   </div>
+  </div>
+  <iframe id="_yuiResizeMonitor" style="position: absolute; visibility: visible; background-color: transparent; border-width: 0px; width: 2em; height: 2em; left: 0px; top: -27px;" title="Text Resize Monitor">
+  </iframe>
+  <input id="inSlowConfig" type="hidden" value="false"/>
+  <div class="a11y-skip-nav-container" id="a11y-menu">
+   <div class="a11y-skip-nav a11y-hidden" id="control_gen_1">
+    <a href="#a11y-content" id="a11y-skip-nav-link">
+     Skip to main content
+    </a>
+   </div>
+  </div>
+  <div class="global-header responsive-header nav-v5-2-header responsive-1 remote-nav" id="header" role="banner">
+   <div id="top-header">
+    <div class="wrapper">
+     <div class="header-section first-child">
+      <h2 class="logo-container" tabindex="0">
+       <a class="logo" href="https://www.linkedin.com/?trk=nav_logo" id="in-logo" target="_self">
+        LinkedIn
+       </a>
+      </h2>
+      <form accept-charset="UTF-8" action="/vsearch/f" class="global-search voltron voltron-vertical-selector" data-li-blud="v9vLdKO19rfHo0+uLDFOEq9CVfSHMG/tirlIY7QtulY=" data-li-help-center-url="https://linkedin.com/help/linkedin/answer/60996?trk=remote-nav-head&amp;lang=en" data-li-lix-tests='{
+        "networkHeadline":              "people",
+        "taSuggestionRecolor":          "blue",
+        "actionsEnabled":               false,
+        "taGlyphIcons":                 true,
+        "typeaheadDebounceTime":        "n1",
+        "taSearchHistoryLS":            true,
+        "taSearchHistoryRS":            false,
+        "typeaheadIgnoreCategories":    false,
+        "noFederated":                  false,
+        "voltronJserpMigration":        false,
+        "disableJobsAdvanced":          false
+      }' id="global-search" method="get" name="commonSearch" role="search">
+       <fieldset>
+        <legend>
+         Find People, Jobs, Companies, and More
+        </legend>
+        <div class="search-scope global-nav-styled-dropdown" id="control_gen_2">
+         <label for="main-search-category">
+          Search for:
+         </label>
+         <span class="label">
+          <span class="styled-dropdown-select-all">
+           All
+          </span>
+         </span>
+         <select class="search-category" id="main-search-category" name="type">
+          <option class="all" data-li-advanced-link="/vsearch/f?adv=true&amp;trk=federated_advs" data-li-ghost-text="Search for people, jobs, companies, and more..." data-li-search-action="/vsearch/f" data-li-styled-dropdown-class="all" data-li-trk-code="vsrp_all_vertical_selector_item" selected="selected" title="Search for people, jobs, companies, and more..." value="all">
+           All
+          </option>
+          <option class="people" data-li-advanced-link="/vsearch/p?adv=true&amp;trk=advsrch" data-li-ghost-text="Search people..." data-li-search-action="/vsearch/p" data-li-styled-dropdown-class="people" data-li-trk-code="vsrp_people_vertical_selector_item" title="Keyword, name, company or title" value="people">
+           People
+          </option>
+          <option class="jobs" data-li-advanced-link="/vsearch/j?adv=true&amp;trk=hb_advjs" data-li-ghost-text="Search jobs..." data-li-search-action="/vsearch/j" data-li-styled-dropdown-class="jobs" data-li-trk-code="vsrp_jobs_vertical_selector_item" title="Keyword, company or job title" value="jobs">
+           Jobs
+          </option>
+          <option class="companies" data-li-ghost-text="Search companies..." data-li-search-action="/vsearch/c" data-li-styled-dropdown-class="companies" data-li-trk-code="vsrp_companies_vertical_selector_item" title="Keyword" value="companies">
+           Companies
+          </option>
+          <option class="groups" data-li-ghost-text="Search groups..." data-li-search-action="/vsearch/g" data-li-styled-dropdown-class="groups" data-li-trk-code="vsrp_groups_vertical_selector_item" title="Keyword" value="groups">
+           Groups
+          </option>
+          <option class="edu" data-li-ghost-text="Search universities..." data-li-search-action="/vsearch/e" data-li-styled-dropdown-class="edu" data-li-trk-code="vsrp_edu_vertical_selector_item" title="Keyword" value="edu">
+           Universities
+          </option>
+          <option class="content" data-li-ghost-text="Search posts..." data-li-search-action="/vsearch/ic" data-li-styled-dropdown-class="content" data-li-trk-code="vsrp_content_vertical_selector_item" title="Keyword" value="content">
+           Posts
+          </option>
+          <option class="inbox" data-li-ghost-text="Search inbox..." data-li-search-action="/inbox/search/route" data-li-styled-dropdown-class="inbox" data-li-trk-code="vsrp_inbox_vertical_selector_item" title="Keyword" value="inbox">
+           Inbox
+          </option>
+         </select>
+         <ul class="search-selector">
+         </ul>
+        </div>
+        <div class="search-box-container" id="search-box-container">
+         <span class="/typeahead" id="search-autocomplete-container">
+          <label aria-live="polite" class="ghost" for="main-search-box" id="main-search-box-label">
+           Search for people, jobs, companies, and more...
+          </label>
+          <span class="twitter-typeahead" style="position: relative; display: inline-block; direction: ltr;">
+           <input aria-autocomplete="list" aria-labelledby="main-search-box-label" aria-live="polite" aria-owns="tt-dataset-GLHD" autocomplete="off" class="search-term typeahead-instant tt-input" dir="ltr" id="main-search-box" name="keywords" placeholder="Search for people, jobs, companies, and more..." role="combobox" spellcheck="false" style="position: relative; vertical-align: top;" title="Tip: You can also search by keyword, company, school..." type="text"/>
+           <pre aria-hidden="true" style="position: absolute; visibility: hidden; white-space: pre; font-family: Arial,sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; word-spacing: 0px; letter-spacing: 0px; text-indent: 0px; text-rendering: optimizelegibility; text-transform: none;"></pre>
+           <span class="tt-dropdown-menu clipped transparent colorful-suggestions blue-variant glyph-icons" style="position: absolute; top: 100%; left: 0px; z-index: 100; display: none; right: auto;">
+            <div class="tt-dataset-GLHD_SEARCH_HISTORY">
+            </div>
+            <div class="tt-dataset-GLHD">
+            </div>
+           </span>
+          </span>
+          <span id="typeahead-loader">
+          </span>
+          <button id="clear-main-search" type="button">
+           <span class="description">
+            Clear
+           </span>
+          </button>
+          <span id="search-typeahead-container">
+          </span>
+         </span>
+         <input name="orig" type="hidden" value="GLHD"/>
+         <input name="rsid" type="hidden"/>
+         <input name="pageKey" type="hidden" value="nprofile_view_nonself"/>
+         <input id="main-search-trkInfo" name="trkInfo" type="hidden" value=""/>
+        </div>
+        <button class="search-button" name="search" type="submit" value="Search">
+         <span>
+          Search
+         </span>
+        </button>
+       </fieldset>
+       <div class="advanced-search-outer">
+        <div class="advanced-search-inner">
+         <a class="advanced-search" href="https://www.linkedin.com/vsearch/f?adv=true&amp;trk=federated_advs" id="advanced-search">
+          Advanced
+         </a>
+        </div>
+       </div>
+      </form>
+     </div>
+     <div class="header-section last-child">
+      <div aria-label="Account Navigation" class="menubar-lix" id="account-nav" role="navigation">
+       <ul class="nav utilities nav-bar">
+        <li class="nav-item activity-tab" data-li-activity-type="messages" data-li-new-count="0">
+         <a class="activity-toggle inbox-alert nav-link messaging" href="https://www.linkedin.com/messaging/?trk=nav_utilities_inbox">
+          <span class="caption">
+           Inbox. You have 1 new message
+          </span>
+         </a>
+         <button aria-controls="inbox" aria-haspopup="true" type="button">
+          <span class="caption">
+           Inbox Menu. Press Enter and then use the Tab key to move through and hear the Inbox menu options.
+          </span>
+         </button>
+         <span aria-hidden="true" class="gem " id="header-messages-count">
+          1
+         </span>
+         <div aria-hidden="true" class="activity-container account-menu-sub-nav" id="inbox">
+          <div class="activity-drop activity-drop-loading">
+           <div class="activity-drop-body">
+           </div>
+          </div>
+         </div>
+        </li>
+        <li class="nav-item activity-tab" data-li-action-type-click="ntf_click_notifications_icon" data-li-action-type-pagination="ntf_scroll" data-li-activity-type="notifications" data-li-new-count="0">
+         <a class="activity-toggle notifications-alert no-link nav-link" href="#notifications" role="button">
+          <span class="caption">
+           Notifications. You have 0 unseen notifications
+          </span>
+         </a>
+         <button aria-controls="notifications" aria-haspopup="true" type="button">
+          <span class="caption">
+           Notifications Menu. Press Enter and then use the Tab key to move through and hear the Notifications menu options.
+          </span>
+         </button>
+         <div aria-hidden="true" class="activity-container account-menu-sub-nav" id="notifications">
+          <div class="activity-drop activity-drop-loading">
+           <div class="activity-drop-body">
+           </div>
+          </div>
+         </div>
+        </li>
+        <li class="nav-item activity-tab apollo-gmn" data-li-activity-type="addconnections">
+         <a class="activity-toggle add-connections-btn nav-link" href="https://www.linkedin.com/fetch/importAndInviteEntry?trk=nav_utilities_add_connx" id="dropdowntest">
+          <span class="caption">
+           Grow My Network
+          </span>
+         </a>
+         <button aria-controls="addconnections" aria-haspopup="true" type="button">
+          <span class="caption">
+           Grow My Network Menu. Press Enter and then use the Tab key to move through and hear the Grow My Network menu options.
+          </span>
+         </button>
+         <span aria-label="You have 3 unseen invitations" class="gem " data-gem-new-invites="0" data-gem-pending-invites="3" id="header-invitations-count">
+          3
+         </span>
+         <div aria-hidden="true" class="activity-container account-menu-sub-nav" id="addconnections">
+          <div class="activity-drop activity-drop-loading">
+           <div class="activity-drop-body">
+            <div class="activity-drop-header">
+             <h3>
+              Grow My Network
+              <span aria-hidden="true" class="sub-nav-header-arrow">
+              </span>
+             </h3>
+            </div>
+            <div id="add-connection-container">
+            </div>
+           </div>
+          </div>
+         </div>
+        </li>
+        <li class="nav-item account-settings-tab">
+         <a class="account-toggle nav-link" href="https://www.linkedin.com/profile/view?id=AAIAAAk9jR8BoWXt0eoPVeG_KFVoBwGVd_t3yik&amp;trk=nav_responsive_tab_profile_pic">
+          <img alt="Chao Song" class="img-defer nav-profile-photo" data-li-src="https://media.licdn.com/mpr/mpr/shrink_100_100/AAEAAQAAAAAAAALMAAAAJDVmZTJmMGU2LTc2MjItNGM1OS04ZTM2LTgzMzkxZjVkZTU5Mg.jpg" height="20" id="img-defer-id-1-61909" src="Loh%20Weihan%20_%20LinkedIn_files/AAEAAQAAAAAAAALMAAAAJDVmZTJmMGU2LTc2MjItNGM1OS04ZTM2LTgzMzkx.jpg" width="20"/>
+         </a>
+         <button aria-controls="account-sub-nav" aria-haspopup="true" type="button">
+          <span class="caption">
+           Account Menu. Press Enter and then use the Tab key to move through and hear the Account menu options.
+          </span>
+         </button>
+         <div aria-hidden="true" class="account-sub-nav account-menu-sub-nav" id="account-sub-nav">
+          <div class="account-sub-nav-options">
+           <div class="account-sub-nav-header">
+            <h3>
+             Account &amp; Settings
+             <span class="sub-nav-header-arrow">
+             </span>
+            </h3>
+           </div>
+           <div class="account-sub-nav-body">
+            <ul class="account-settings">
+             <li class="self">
+              <div class="account-settings-link">
+               <span class="act-set-row">
+                <span class="act-set-icon">
+                 <a href="https://www.linkedin.com/psettings/">
+                  <span class="act-set-icon-image">
+                   <img alt="Chao Song" class="img-defer nav-profile-photo" data-li-src="https://media.licdn.com/mpr/mpr/shrink_100_100/AAEAAQAAAAAAAALMAAAAJDVmZTJmMGU2LTc2MjItNGM1OS04ZTM2LTgzMzkxZjVkZTU5Mg.jpg" height="20" id="img-defer-id-2-61909" src="Loh%20Weihan%20_%20LinkedIn_files/AAEAAQAAAAAAAALMAAAAJDVmZTJmMGU2LTc2MjItNGM1OS04ZTM2LTgzMzkx.jpg" width="20"/>
+                  </span>
+                 </a>
+                </span>
+                <span class="act-set-name">
+                 <a class="act-set-name-split-link" href="https://www.linkedin.com/profile/view?id=AAIAAAk9jR8BoWXt0eoPVeG_KFVoBwGVd_t3yik&amp;trk=nav_responsive_tab_profile_pic">
+                  Chao Song
+                 </a>
+                </span>
+                <span class="act-set-action">
+                 <a class="account-submenu-split-link" href="https://www.linkedin.com/uas/logout?session_full_logout=&amp;csrfToken=ajax%3A8684745105436372934&amp;trk=nav_account_sub_nav_signout">
+                  Sign Out
+                 </a>
+                </span>
+               </span>
+              </div>
+             </li>
+             <li class="account-type">
+              <a class="account-settings-link" href="https://www.linkedin.com/mnyfe/subscriptionv2?displayProducts=&amp;trk=nav_account_sub_nav_upgrade" target="_self">
+               <span class="act-set-row">
+                <span class="act-set-icon">
+                 <span class="act-set-icon-image">
+                 </span>
+                </span>
+                <span class="act-set-name">
+                 Account: Basic
+                </span>
+                <span class="act-set-action">
+                 Upgrade
+                </span>
+               </span>
+              </a>
+             </li>
+             <li class="job-posting">
+              <a class="account-settings-link" href="https://www.linkedin.com/job/consumer/manageConsumer?trk=nav_account_sub_nav_job_manage">
+               <span class="act-set-row">
+                <span class="act-set-icon">
+                 <span class="act-set-icon-image">
+                 </span>
+                </span>
+                <span class="act-set-name">
+                 Job Posting
+                </span>
+                <span class="act-set-action">
+                 Manage
+                </span>
+               </span>
+              </a>
+             </li>
+             <li class="language-settings">
+              <a class="account-settings-link" href="https://www.linkedin.com/psettings/select-language">
+               <span class="act-set-row">
+                <span class="act-set-icon">
+                 <span class="act-set-icon-image">
+                 </span>
+                </span>
+                <span class="act-set-name">
+                 Language
+                </span>
+                <span class="act-set-action">
+                 Change
+                </span>
+               </span>
+              </a>
+             </li>
+             <li class="privacy-settings">
+              <a class="account-settings-link" href="https://www.linkedin.com/psettings/">
+               <span class="act-set-row">
+                <span class="act-set-icon">
+                 <span class="act-set-icon-image">
+                 </span>
+                </span>
+                <span class="act-set-name">
+                 Privacy &amp; Settings
+                </span>
+                <span class="act-set-action">
+                 Manage
+                </span>
+               </span>
+              </a>
+             </li>
+             <li class="help-center">
+              <span class="qh-icon">
+              </span>
+              <span class="account-settings-link">
+               <a class="act-set-name" href="https://linkedin.com/help/linkedin?trk=nprofile_view_nonself&amp;lang=en" rel="nofollow" target="_blank">
+                Help Center
+               </a>
+               <a class="act-set-action" href="https://linkedin.com/help/linkedin?trk=nprofile_view_nonself&amp;lang=en" rel="nofollow" target="_blank">
+                Get Help
+               </a>
+               <ul class="qh-page-tours">
+               </ul>
+              </span>
+             </li>
+            </ul>
+           </div>
+          </div>
+         </div>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="responsive-nav" id="responsive-nav-scrollable" style="position: static; width: auto;">
+    <div class="wrapper">
+     <div aria-label="Main Navigation" class="menubar-lix" id="main-site-nav" role="navigation">
+      <ul class="nav main-nav nav-bar">
+       <li class="nav-item">
+        <a class="nav-link" href="https://www.linkedin.com/home?trk=nav_responsive_tab_home">
+         Home
+        </a>
+       </li>
+       <li class="nav-item selected">
+        <a class="nav-link" href="https://www.linkedin.com/profile/view?id=AAIAAAk9jR8BoWXt0eoPVeG_KFVoBwGVd_t3yik&amp;trk=nav_responsive_tab_profile">
+         Profile
+        </a>
+        <button aria-controls="profile-sub-nav" aria-haspopup="true" type="button">
+         <span class="caption">
+          Profile Menu. Press Enter and then use the Tab key to move through and hear the Profile menu options.
+         </span>
+        </button>
+        <ul aria-hidden="true" class="sub-nav" id="profile-sub-nav">
+         <li>
+          <a href="https://www.linkedin.com/profile/edit?trk=nav_responsive_sub_nav_edit_profile">
+           Edit Profile
+          </a>
+         </li>
+         <li>
+          <a href="https://www.linkedin.com/wvmx/profile?trk=nav_responsive_sub_nav_wvmp">
+           Who's Viewed Your Profile
+          </a>
+         </li>
+         <li>
+          <a href="https://www.linkedin.com/pulse/activities/chao-song+0_0UAUH72-lpQ2xijBk4moJj?trk=nav_responsive_sub_nav_yourupdates">
+           Your Updates
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="nav-item">
+        <span class="nav-link no-link" id="nav-link-network">
+         My Network
+        </span>
+        <button aria-controls="network-sub-nav" aria-haspopup="true" type="button">
+         <span class="caption">
+          My Network Menu. Press Enter and then use the Tab key to move through and hear the My Network menu options.
+         </span>
+        </button>
+        <ul aria-hidden="true" class="sub-nav" id="network-sub-nav">
+         <li>
+          <a href="https://www.linkedin.com/connections?type=combined&amp;trk=nav_responsive_sub_nav_network">
+           Connections
+          </a>
+         </li>
+         <li>
+          <a href="https://www.linkedin.com/fetch/importAndInviteEntry?trk=nav_responsive_sub_nav_add_connections">
+           Add Contacts
+          </a>
+         </li>
+         <li>
+          <a href="https://www.linkedin.com/people/pymk?trk=nav_responsive_sub_nav_pymk">
+           People You May Know
+          </a>
+         </li>
+         <li>
+          <a href="https://www.linkedin.com/edu/alumni?trk=nav_responsive_sub_nav_find_alumni">
+           Find Alumni
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="nav-item">
+        <a class="nav-link" href="https://www.linkedin.com/job/home?trk=nav_responsive_sub_nav_jobs">
+         Jobs
+        </a>
+       </li>
+       <li class="nav-item">
+        <span class="nav-link no-link" id="nav-link-interests">
+         Interests
+        </span>
+        <button aria-controls="interests-sub-nav" aria-haspopup="true" type="button">
+         <span class="caption">
+          Interests Menu. Press Enter and then use the Tab key to move through and hear the Interests menu options.
+         </span>
+        </button>
+        <ul aria-hidden="true" class="sub-nav" id="interests-sub-nav">
+         <li>
+          <a href="https://www.linkedin.com/company/home?trk=nav_responsive_sub_nav_companies">
+           Companies
+          </a>
+         </li>
+         <li>
+          <a href="https://www.linkedin.com/grp/?trk=nav_responsive_sub_nav_groups">
+           Groups
+          </a>
+         </li>
+         <li>
+          <a href="https://www.linkedin.com/today/?trk=nav_responsive_sub_nav_pulse">
+           Pulse
+          </a>
+         </li>
+         <li>
+          <a href="https://www.linkedin.com/redirect?url=http%3A%2F%2Fwww%2Eslideshare%2Enet&amp;urlhash=nLLC&amp;trk=nav_responsive_sub_nav_slideshare" target="_blank">
+           SlideShare
+          </a>
+         </li>
+         <li>
+          <a href="https://www.linkedin.com/premium/lynda/landing?trk=nav_int_subnav_learning" target="_blank">
+           Learning
+          </a>
+         </li>
+        </ul>
+       </li>
+      </ul>
+     </div>
+     <div aria-label="Premium Services" class="menubar-lix" id="premium-site-nav" role="navigation">
+      <ul class="nav premium-nav nav-bar">
+       <li class="nav-item">
+        <span class="nav-link no-link">
+         Business Services
+        </span>
+        <button aria-controls="business-sub-nav" aria-haspopup="true" type="button">
+         <span class="caption">
+          Business Services Menu. Press Enter and then use the Tab key to move through and hear the Business Services menu options.
+         </span>
+        </button>
+        <ul aria-hidden="true" class="sub-nav" id="business-sub-nav">
+         <li>
+          <a href="https://www.linkedin.com/mjobs/jobPosting/learnMore?trk=nav_responsive_sub_nav_post_job">
+           Post a Job
+          </a>
+         </li>
+         <li>
+          <a href="https://www.linkedin.com/mnyfe/subscriptionv2?displayProducts=&amp;family=talent&amp;trk=li-nav" target="_blank">
+           Talent Solutions
+          </a>
+         </li>
+         <li>
+          <a href="https://www.linkedin.com/ad/start?utm_source=li&amp;utm_medium=el&amp;utm_campaign=hb_tab_ads&amp;src=li-nav&amp;trk=nav_responsive_sub_nav_advertise" target="_blank">
+           Advertise
+          </a>
+         </li>
+         <li>
+          <a href="https://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fbusiness%2Elinkedin%2Ecom%2Fsales-solutions%3Fsrc%3Dli-nav%26trk%3Dlss_global_nav_link2micro%26utm_source%3Dlinkedin%26utm_medium%3Dglobal-nav&amp;urlhash=vOcS" target="_blank">
+           Sales Solutions
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="nav-item">
+        <a class="nav-link" data-li-phref="" href="https://www.linkedin.com/premium/products?trk=nav_responsive_sub_nav_upgrade" id="" target="_self">
+         Upgrade
+        </a>
+       </li>
+       <li class="nav-item chinese-switch ">
+        <a class="nav-link" href="https://www.linkedin.com/settings/select-language-submit?locale=zh_CN&amp;location=https%253A%252F%252Fwww%252Elinkedin%252Ecom%252Fprofile%252Fin%252Floh-weihan-9720373b%253FauthType%253Dname%2526authToken%253DYiBr%2526trk%253Dhp-feed-member-name%2526urlhash%253Dg3Du&amp;csrfToken=ajax%3A8684745105436372934&amp;goback=%2Enppvan_loh*5weihan*59720373b">
+         简体中文
+        </a>
+       </li>
+       <li class="nav-item english-switch">
+        <a class="nav-link" href="https://www.linkedin.com/settings/select-language-submit?locale=en_US&amp;location=https%253A%252F%252Fwww%252Elinkedin%252Ecom%252Fprofile%252Fin%252Floh-weihan-9720373b%253FauthType%253Dname%2526authToken%253DYiBr%2526trk%253Dhp-feed-member-name%2526urlhash%253Dg3Du&amp;csrfToken=ajax%3A8684745105436372934&amp;goback=%2Enppvan_loh*5weihan*59720373b">
+         English
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+   <div class="a11y-content">
+    <a id="a11y-content-link" name="a11y-content" tabindex="0">
+     Main content starts below.
+    </a>
+   </div>
+   <div class=" wrapper" id="global-alert-queue">
+   </div>
+  </div>
+  <div class="" id="text-ad-container">
+   <div class="ad-hdr" id="ad-slot-3">
+    <div class="ad-hdr-exp-2-7">
+     <p>
+      <a href="https://www.linkedin.com/csp/cat?v=1&amp;action=click&amp;trk=0_1tqWHPwZS6Xb3eehyPdqdaUWglkMQSuPE_kvnlRAoMBhDt4I0gawC6aHza3mYnI-afM0szU0DyXznJx8PVX9ELMaSuhdGPDUVVP6ngAzK-TPtLjbdhWEhGT1lhhG-EJavd3XuJAynYrmW8uSyGGNB26eCWPztoUpUtCDmeYT8NBkHmSwo8588bYpqUuf6PRWba2q1yXLAIv_xrCVlw5-Ri7cGkvF4BoVUNDe1rVo1B4_lb0e2ttNbL3idc8OcgHzV4yczReIMyiSiYsmxApFDgBMgsC4F51e8_1Ln4-AyhdC2CG0FH2giZF4lblJj08UghA1y0Wmmy-m--DzzvH5oIuuEvjCnj9ndqMnYHTVdQck2axX7ywN6XNzVRx8ItDZt2c69xUmWI3X_kU6N-IvRLkyp_QA26RJ7HYMoMYqowIIOk3kRPr7BPTe3fJlS-GD7vJMwf-7BRl3JO76teKjgnIpA738ANpugttJ43-pxuMQ_UuAY31pZIh-mZWlzRbYwffKU6BDsshnD8eiiY74-OY2iJGAH00fuodYjnQ5gv47fN1RFTBg4aD2JC30VMd4f31P-dkPYD7htLccEZP3CQDtucI-LfojTNtytQmTughjN8Lv7PT9Abin0HStujap1N_BjKUbONJicZMvO2KCGaEnIS0XgQQpoE6az7kAgs9xOthr0Zvny_yA04q4AXEcoOMqLoojyJTlxFqxPXMW3qX-7adnwyXj-gnVn8iKwJhKYGa1gVW0zquc2w32warIJJ8K3DMDe85W3NPZSWg3kEAWZidw3LP8UeRxnfjrMUGZPIqCJOwcfIDvVqURjfe-NjCgUvQTlQDz8MmM5-Gi_B5SeJOvXzbsletXf9x2O1_UyRFNyzvML8XMk6UauITddGp-mL9LGtA6IFnq9n03wfrZM3EoTS4Nk3Kx63c5c_5YV3INJ16Tu1aVYP6lkgbJEKtJ8P0lv1vR8QDj_B0hSnUqNqy6LH6jAUgnCdJ3z5lov3pojYSXAaKf1P0kMfIhv3KjZzCcsqmz1tI3fEe5sBLMnx2Pkb5itWK-bgSxkI7kAtWo5KWu1ra57xKsSi3qkLhATIY291y25OTkx27WX4MeSdUAFR2WLtWEaVYNp7MGcC_O9JjwocJqe9wjpR6KLRuBwjBaOr4r99EApXzRzHZIJlWan92d_DkKw3Flt1tQShjlOmvy4P1okx7YAm28JRNoPyGpXRRmJVntl_nKdh" target="_blank">
+       <span class="ad-hdr-title">
+        Accelerated MBA Online
+       </span>
+       -
+       <span class="ad-hdr-info">
+        Earn your MBA online in 12 months with our accelerated track. Learn more!
+       </span>
+      </a>
+      <span class="separator">
+       |
+      </span>
+      <a href="https://www.linkedin.com/csp/cat?v=1&amp;action=click&amp;trk=0_1tqWHPwZS6Xb3eehyPdqdaUWglkMQSuPE_kvnlRAoMBhDt4I0gawC6aHza3mYnI-afM0szU0DyXznJx8PVX9ELMaSuhdGPDUVVP6ngAzK-TPtLjbdhWEhGT1lhhG-EJavd3XuJAynYrmW8uSyGGNB26eCWPztoUpUtCDmeYT8NBkHmSwo8588bYpqUuf6PRWba2q1yXLAIv_xrCVlw5-Ri7cGkvF4BoVUNDe1rVo1B4_lb0e2ttNbL3idc8OcgHzV4yczReIMyiSiYsmxApFDgBMgsC4F51e8_1Ln4-AyhdC2CG0FH2giZF4lblJj08UghA1y0Wmmy-m--DzzvH5oIuuEvjCnj9ndqMnYHTVdQck2axX7ywN6XNzVRx8ItDZt2c69xUmWI3X_kU6N-IvRLkyp_QA26RJ7HYMoMYqowIIOk3kRPr7BPTe3fJlS-GD7vJMwf-7BRl3JO76teKjgnIpA738ANpugttJ43-pxuMQ_UuAY31pZIh-mZWlzRbYwffKU6BDsshnD8eiiY74-OY2iJGAH00fuodYjnQ5gv47fN1RFTBg4aD2JC30VMd4f31P-dkPYD7htLccEZP3CQDtucI-LfojTNtytQmTughjN8Lv7PT9Abin0HStujap1N_BjKUbONJicZMvO2KCGaEnIS0XgQQpoE6az7kAgs9xOthr0Zvny_yA04q4AXEcoOMqLoojyJTlxFqxPXMW3qX-7adnwyXj-gnVn8iKwJhKYGa1gVW0zquc2w32warIJJ8K3DMDe85W3NPZSWg3kEAWZidw3LP8UeRxnfjrMUGZPIqCJOwcfIDvVqURjfe-NjCgUvQTlQDz8MmM5-Gi_B5SeJOvXzbsletXf9x2O1_UyRFNyzvML8XMk6UauITddGp-mL9LGtA6IFnq9n03wfrZM3EoTS4Nk3Kx63c5c_5YV3INJ16Tu1aVYP6lkgbJEKtJ8P0lv1vR8QDj_B0hSnUqNqy6LH6jAUgnCdJ3z5lov3pojYSXAaKf1P0kMfIhv3KjZzCcsqmz1tI3fEe5sBLMnx2Pkb5itWK-bgSxkI7kAtWo5KWu1ra57xKsSi3qkLhATIY291y25OTkx27WX4MeSdUAFR2WLtWEaVYNp7MGcC_O9JjwocJqe9wjpR6KLRuBwjBaOr4r99EApXzRzHZIJlWan92d_DkKw3Flt1tQShjlOmvy4P1okx7YAm28JRNoPyGpXRRmJVntl_nKdh" target="_blank">
+       <span class="more">
+        Read More »
+       </span>
+      </a>
+      <img height="1" id="tracking-pixel" src="Loh%20Weihan%20_%20LinkedIn_files/cat.gif" style="visibility:hidden;display:none;position:absolute;left:-9999px;" width="1"/>
+     </p>
+    </div>
+   </div>
+  </div>
+  <div class="has-text-ad" id="body" role="main">
+   <div class="leo-module mod-util mod-custom siteflow collapsed-v2 snug-fit has-finite-list " id="siteflow-widget-next">
+    <div class="recommendation" id="control_gen_10">
+     <h4>
+      People also viewed
+     </h4>
+     <button class="btn-dismiss" data-li-lego-id="skyline:_dismiss" id="skyline-dismiss-btn" type="button">
+      <i class="icon-dismiss">
+       <span class="glyph">
+       </span>
+       <span class="screen-reader-text">
+        Dismiss
+       </span>
+      </i>
+     </button>
+     <div class="content-block">
+      <div class="entityblock person">
+       <img class="image" height="80" src="Loh%20Weihan%20_%20LinkedIn_files/2fce5dd.jpg" width="80"/>
+       <div class="content-body">
+        <h3 class="name">
+         <a href="https://www.linkedin.com/profile/view?id=AAIAAAU52XwBKS_2BifEKB17JkfBLcAHp9wge4o&amp;authType=name&amp;authToken=VTNR&amp;trk=Skyline_click_NBM&amp;sl=NBM%3B155028767%3A1464764068296%3B0%3B140416934%3B">
+          Thiban Narayanan
+         </a>
+        </h3>
+        <p class="update-content">
+         Application Delivery Manager (Manufacturing)
+        </p>
+       </div>
+      </div>
+      <div class="slider">
+       <span class="gray-slider">
+        <span aria-hidden="true" class="arrow-icon">
+        </span>
+        <span class="screen-reader-text">
+         View next search result
+        </span>
+       </span>
+      </div>
+     </div>
+     <a class="recommendation-link" href="https://www.linkedin.com/profile/view?id=AAIAAAU52XwBKS_2BifEKB17JkfBLcAHp9wge4o&amp;authType=name&amp;authToken=VTNR&amp;trk=Skyline_click_NBM&amp;sl=NBM%3B155028767%3A1464764068296%3B0%3B140416934%3B">
+      View next search result
+     </a>
+    </div>
+   </div>
+   <div class="wrapper hp-nus-wrapper">
+    <div id="global-error">
+    </div>
+    <div class="" id="wrapper">
+     <noscript>
+      <div class="alert attention">
+       <p>
+        To use the new LinkedIn Profile, you need to use a JavaScript-enabled browser.
+       </p>
+      </div>
+     </noscript>
+     <div class=" " data-target-section="" id="profile">
+      <div class="endorse-v2">
+       <div id="suggested-endorsements" style="opacity: 1; display: block;">
+        <div class="suggested-endorsements promo-v3">
+         <a class="close-action-katy close-endorsements" href="javascript:void(0)" role="button" title="Close">
+          <span aria-hidden="true" class="close-glyph">
+          </span>
+          <span class="close-text">
+           Close
+          </span>
+         </a>
+         <h3 class="endorse-skills-title">
+          Does Loh have these skills or expertise?
+         </h3>
+         <form action="" class="ajax-form" id="endorse-skills-form" method="POST" name="endorsementsForm">
+          <ul class="suggested-endorsements-list">
+           <li class="endorsed-item ">
+            <fieldset>
+             <span class="item-name">
+              Unix
+             </span>
+             <a class="remove-item" href="#" title="Remove suggestion">
+              Remove suggestion
+             </a>
+             <input name="endorsedItemName" type="hidden" value="Unix"/>
+             <input name="endorsedItemType" type="hidden" value="skill"/>
+             <input name="endorsedItemId" type="hidden" value="684"/>
+             <input name="recipientType" type="hidden" value="member"/>
+             <input name="recipientId" type="hidden" value="140416934"/>
+             <input name="signature" type="hidden" value="AQHyyI9n_TMeygAAAVUKvi1Kx3SD5s-_aRvg98PVLJzmBzB33zZ0qf4u7f3uBOJyvUfPhiQP2OFmuVlM9xl151DuaPTBJw7KqCI53eMXUOf0oXssuiXYLvJhAudwXrrZjgSa4kBh-v_Z90PzTOMOZFZVFoXI8-bETwQxZbHRAF-siZJbT-nDG6IV7Jfc361DgfGF8PTbLYN364l5AVEvrYawQdkgjJYoulIt5XjkIZk4L2kGB7WNuhU8X0xM0yrWoBUrIpsjkyqPD7Xx1MkeBC54x-PczdKokHWzuVKPGrVWlUk_ZKJwJbOp0wRQ1tCkcguWiO3wT2oEWLlY26xbGLL7H1HYVyobrhvJT8VINYWnghjaqWmePoBft8Mq_xEUFLrEV4dIXKqhjP7p7GLqsSLAdQY7xl-1P_rwv3oCI1EPexyCM8eqm3L5EBWs7RfeFeCZwo00gSEVCSI8Q3zUZVOvFi1OhmoQOUAH9ZR7YWAf0yfOr-J0lr628bZzUOKd0NCQfj0HRi8YuQs7iMTc6ZA-dxSFYRTsRztq3ywa4Rrx9_KAhqo0YGbIgBNi8pW9gYtqTERMOgs2tKtaFOV6rlnM-_vprpd0BXn57mhDhoYJs8NvjqN2vNQel4TBb6S9"/>
+            </fieldset>
+           </li>
+           <li class="endorsed-item ">
+            <fieldset>
+             <span class="item-name">
+              Software Development
+             </span>
+             <a class="remove-item" href="#" title="Remove suggestion">
+              Remove suggestion
+             </a>
+             <input name="endorsedItemName" type="hidden" value="Software Development"/>
+             <input name="endorsedItemType" type="hidden" value="skill"/>
+             <input name="endorsedItemId" type="hidden" value="602"/>
+             <input name="recipientType" type="hidden" value="member"/>
+             <input name="recipientId" type="hidden" value="140416934"/>
+             <input name="signature" type="hidden" value="AQFfjU9DN4pDyQAAAVUKvi1LrnVXqnHLi66R0SAcmy8CvVkGEZ1h8doDM7KDUsVBpnb9A_EV4yF-q6mUq_0KawZvTIv2LOJJOU4Ig9Z-jNOaz9DvScLITHo6LpRyP5gdJEjtgNBEBWiOdWfP_yc3D8ryWiUVGte8aOKT2n5V2PY36YsNLnTQfOeZ1uTDobNekbtxkBJWUGhReDeYvbIQmzu2zP0Ua_EN3yQuS1d1zBRPCDbAYKRNZltcbYXq5yFlsNOrzKqMmZeG7hP7KIMee7bR6bK2iinq41lKXbUBm0aGTyx61A4Jd1swyWf2DwJIDUgkDBkMLiB-K5q1C4e3UKOQ3c0qfvQLqOyQdIiQFfPgkUCtAU20h5ueVXeVej8garXkTa7umPXD0P0As2y5P0sZl7Zx0WLDpEGJpWeIqM0GeZVrSDq_fuii6BNyU8wCoBDSx-58mFCF6m1G7wZLqoqmmTdmOorCabuV2suYORw_rm9ibyxl09cdSGgnMFLeycd3kP_SfNp6xmQn07QwxBG6YPYWu5Te-SmXMJfWpqNMhwcPCLYLfq2XbLenOV6oI1C6Tgp9CsgWiBFe8gU5pQOnnPjwDK6TXA6wHc17A6WLT_dvQGdL8D807wWtuGFBv1lyLW0csF4Nos3_azQctg"/>
+            </fieldset>
+           </li>
+           <li class="endorsed-item ">
+            <fieldset>
+             <span class="item-name">
+              Testing
+             </span>
+             <a class="remove-item" href="#" title="Remove suggestion">
+              Remove suggestion
+             </a>
+             <input name="endorsedItemName" type="hidden" value="Testing"/>
+             <input name="endorsedItemType" type="hidden" value="skill"/>
+             <input name="endorsedItemId" type="hidden" value="94"/>
+             <input name="recipientType" type="hidden" value="member"/>
+             <input name="recipientId" type="hidden" value="140416934"/>
+             <input name="signature" type="hidden" value="AQHNwr2sOF3FBQAAAVUKvi1LS8FzXcc-5PgqerInTLd9ejp0GJgagb-xW3pa3npusBEmbnOO7FEnM5WGSw8LyLhIcu0y18dFCh_0t5m8tdZC55l2bDFeojE3nNbFHRbQ0sh3WsvOR_jKP2jWKBQL5a1JWI0Ts5W4uD5_lM_GoHAfewhyVh9IN-a0P7vCl6CfXir0fq3vACShObF9ojOnOlHvb6O6zC79aPH63jIeYFRT3VfBjWpTER6Q3hLX9aGBspxxCaTnaaTNGqxXHFl6mfip14iSi1g-UhhzabVWKz7et9SkCvhwaQVklFva8zSavos_dwQQRAtjAR7fK3XAHUpnO-TA9oaVhqcvxIVqZ4DO9HN9SRotnS0FVQedpGu1RfT3lrmifiayTRhcsnq6rKE2XIJb4NSxaswsdDOgIoIz3nUPvNeNLJDykltvLaTT5I6R0Wq4CxFeqYxir-teEurFiQtxerg8d8MulPBaqZoSw1YG1-I9M7l-3T-eKiDV8vxW2BY22LKbTq22kiUgjc9ognWzzdI5qpjXoQzRIj2BdBkDbrbwLEOyz4o-kfoGA-VY8JdSZFCuyt41q9Vh5qNNm-KxOqAQm-up7__m6xGZA6xIogWdzIK4khrZKyuHutnA"/>
+            </fieldset>
+           </li>
+           <li class="endorsed-item ">
+            <fieldset>
+             <span class="item-name">
+              Integration
+             </span>
+             <a class="remove-item" href="#" title="Remove suggestion">
+              Remove suggestion
+             </a>
+             <input name="endorsedItemName" type="hidden" value="Integration"/>
+             <input name="endorsedItemType" type="hidden" value="skill"/>
+             <input name="endorsedItemId" type="hidden" value="432"/>
+             <input name="recipientType" type="hidden" value="member"/>
+             <input name="recipientId" type="hidden" value="140416934"/>
+             <input name="signature" type="hidden" value="AQHz7Kspu-NWHgAAAVUKvi1MnseUYlDq5cEgIs7pFRiendrwjZLXGDO6GlnosOl5-uDjfTBrBC0_U44i0UZbXI6Wal7iPds9pZsoUF4EoPzzqegEpnyc05ZFB96ZTZV26Y_dd5_o4Qn2uRA-C-3VrcLbPK-OqyeU1n-hvVC0RRV6l03j5ENKcuwN-ohqQfIWzJqfCgH6emL3geuLJ_HhKW1b2gvDwg1yJ-4VY2iBNjjPsairHmqZNNKY2SCAVvxtnTy9LQzTMANwJYZ9DjjMnr-3pr1tcZ8ZhbKml0JWF24849lPmxddTW6Wvdr4D5o51khliRhW4srnGR_QUADJnDOh0LVQIEYWNpoWayNrEp5LsnBPTGS710jMmjK9N08gjcP5qdVGQvukJ3-VfDujR6hgEDdfEn49nzuHt11nDsHiKe2FBnOHzi2M1AQtNqmtYc2HFCoKg0wZff56Iorm14vjakOXXMlyHMF6imvYd0GmRF-eNXgEUdj32E8pqHaWFIpdH6bAqhGzqErfNP5F70JKasqSEw_PXkvIpBqmH-ulhTRPxg6RYRBvQXnwuggi3x4gA4jIaTYcTDrAbpkx7g4XGcXxwO8qr71QgWPiOCQFSD9ZRqWbR8S3lUNZCJmNOQBjQAb_1w"/>
+            </fieldset>
+           </li>
+           <li class="endorsed-item ">
+            <fieldset>
+             <span class="item-name">
+              Embedded Systems
+             </span>
+             <a class="remove-item" href="#" title="Remove suggestion">
+              Remove suggestion
+             </a>
+             <input name="endorsedItemName" type="hidden" value="Embedded Systems"/>
+             <input name="endorsedItemType" type="hidden" value="skill"/>
+             <input name="endorsedItemId" type="hidden" value="616"/>
+             <input name="recipientType" type="hidden" value="member"/>
+             <input name="recipientId" type="hidden" value="140416934"/>
+             <input name="signature" type="hidden" value="AQGrtblF1besFQAAAVUKvi1M1wi2LvC2OiLNeieKLSu2JjL9CXAi1GACSMwOXP7xZbcVReHk7juPiMPZkQksaA1suq1HzB0ZhVash9QFDuvEte-E_-1UDLFqyzOMCLZnZP5QarOYAnB2HDufjDXHoHekgQYeYcCJOBL-JCB8_JfAXznYiJa7s-u3WrJSY-4de6z_menWy75KwOxtbPXzub9Sox9fr_v8YD6galH6bFBEegH1WOzapXpGfs3mA2FufaQv27kSHoVuf4MEA0_VP7_v3YETrM1UnOT79W-gihS7-4eXfSsgFF6QquRlzesiWBsNORnvCFFJg_dZRHstyTPO-uegaEGBA0mxtyzbRi7TgAWfX2GOtnuU_seDYqK4LesTYJEQ3KNyv53TszIsXh7kLZ_tB2N-MHhKTD2JBLYXN5Pav7WL-JIEd0d3MTG5FA6PbZCu-HZ-SEI3A0fuQhuX3ZnTg-8kAa9DdpUdfdRXBa2WxlH8aNBp1Tup7GNgCTazgrEd2hDMcSGv1jNhDwiUD8lE_KdW1Pqg66rpgsqNwpskpn2sHq15ru5iGGNFN747-JiOD9pmbkGp9QY28NqJYQlyZPVQ8M4geJeyXm2Bkl7RrKSnihrqW19jGnCNJV-ge_d1M801s6mI"/>
+            </fieldset>
+           </li>
+           <li class="add-another-skill">
+            <label for="add-skill-endorse" id="control_gen_11" style="display: none;">
+             Type another area of expertise...
+            </label>
+            <input autocomplete="off" class="yui-ac-input" id="add-skill-endorse" placeholder="Type another area of expertise..." style="width: 359px;" type="text"/>
+           </li>
+          </ul>
+          <div class="endorse-actions-wrapper">
+           <span class="alternate">
+            <a class="whats-this" href="#whats-this-v2" id="control_gen_12" tabindex="-1">
+             What is this?
+            </a>
+           </span>
+           <input class="btn-action endorse-skills" id="endorse-submit" name="endorse" type="submit" value="Endorse"/>
+           <input class="btn-secondary skip-action" type="button" value="Skip"/>
+           <div class="progress-indicator" style="line-height: 23px;">
+           </div>
+          </div>
+         </form>
+         <div class="callout-container" id="whats-this-v2">
+          <div class="callout-content">
+           <div class="callout-body">
+            <p>
+             Now you can endorse your connections for their skills and expertise!
+            </p>
+            <p>
+             Your picture will appear on their profile next to what you’ve endorsed.
+            </p>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div id="endorsements-connections" style="display: none; opacity: 0; height: 0px;">
+       </div>
+      </div>
+      <!--Enjoy our markup-->
+      <div data-li-template="top_card" id="top-card">
+       <div class="profile-top-card top-card ">
+        <div class="profile-card vcard">
+         <div class="profile-picture">
+          <img alt="Loh Weihan" src="Loh%20Weihan%20_%20LinkedIn_files/059ba03.jpg"/>
+          <span>
+          </span>
+         </div>
+         <div class="profile-overview">
+          <div class="profile-overview-content">
+           <div class="masthead" id="member-140416934">
+            <div class="account-icons">
+             <span class="fp-degree-icon">
+              <abbr aria-hidden="true" class="degree-icon " title="Loh Weihan is your connection">
+               1
+               <sup>
+                st
+               </sup>
+              </abbr>
+             </span>
+             <div data-li-template="badge" id="badge-container">
+              <div class="editable-item" id="badge">
+              </div>
+             </div>
+            </div>
+            <div data-li-template="p2_basic_info">
+             <div data-li-template="name" id="name-container">
+              <div class="editable-item" id="name">
+               <h1>
+                <span class="fn">
+                 <span class="full-name" dir="auto">
+                  Loh Weihan
+                 </span>
+                </span>
+               </h1>
+              </div>
+             </div>
+             <div data-li-template="headline" id="headline-container">
+              <div class="editable-item" id="headline">
+               <p class="title" dir="ltr">
+                Application Delivery Manager
+               </p>
+              </div>
+             </div>
+             <div class="demographic-info adr editable-item" id="demographics">
+              <div data-li-template="location" id="location-container">
+               <div class="editable-item" id="location">
+                <dl>
+                 <dt>
+                  Location
+                 </dt>
+                 <dd>
+                  <span class="locality">
+                   <a href="https://www.linkedin.com/vsearch/p?countryCode=sg&amp;trk=prof-0-ovw-location" name="location" title="Find other members in Singapore">
+                    Singapore
+                   </a>
+                  </span>
+                 </dd>
+                 <dt>
+                  Industry
+                 </dt>
+                 <dd class="industry">
+                  <a href="https://www.linkedin.com/vsearch/p?f_I=7&amp;trk=prof-0-ovw-industry" name="industry" title="Find other members in this industry">
+                   Semiconductors
+                  </a>
+                 </dd>
+                </dl>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <table summary="Overview for Loh Weihan">
+            <tbody>
+             <tr id="overview-summary-current">
+              <th scope="row">
+               <span class="edit-tools">
+                <a class="edit-section" href="#background-experience" id="control_gen_3">
+                 Edit experience
+                </a>
+               </span>
+               <a data-trk="prof-0-ovw-curr_pos" href="#background-experience">
+                Current
+               </a>
+              </th>
+              <td>
+               <ol>
+                <li>
+                 <span class="new-miniprofile-container /biz/miniprofile/1618?pathWildcard=1618" data-li-getjs="https://static.licdn.com/scds/concat/common/js?h=40vfeoewuurexnhvi1o2qiknu&amp;fc=2" data-li-url="/biz/miniprofile/1618?pathWildcard=1618" data-tracking="mcp_profile_sum">
+                  <strong>
+                   <a dir="auto" href="https://www.linkedin.com/company/1618?trk=prof-0-ovw-curr_pos">
+                    STMicroelectronics
+                   </a>
+                  </strong>
+                 </span>
+                </li>
+               </ol>
+              </td>
+             </tr>
+             <tr id="overview-summary-past">
+              <th scope="row">
+               <span class="edit-tools">
+                <a class="edit-section" href="#background-experience" id="control_gen_4">
+                 Edit experience
+                </a>
+               </span>
+               <a data-trk="prof-0-ovw-prev_pos-label" href="#background-experience">
+                Previous
+               </a>
+              </th>
+              <td>
+               <ol>
+                <li>
+                 <span class="new-miniprofile-container /biz/miniprofile/1618?pathWildcard=1618" data-li-getjs="https://static.licdn.com/scds/concat/common/js?h=40vfeoewuurexnhvi1o2qiknu&amp;fc=2" data-li-url="/biz/miniprofile/1618?pathWildcard=1618" data-tracking="mcp_profile_sum">
+                  <strong>
+                   <a dir="auto" href="https://www.linkedin.com/company/1618?trk=prof-0-ovw-prev_pos">
+                    STMicroelectronics
+                   </a>
+                  </strong>
+                 </span>
+                </li>
+               </ol>
+               <a class="jump-to-section" href="#background-experience" id="control_gen_5">
+                Edit experience
+               </a>
+              </td>
+             </tr>
+             <tr id="overview-summary-education">
+              <th scope="row">
+               <span class="edit-tools">
+                <a class="edit-section" href="#background-education" id="control_gen_6">
+                 Edit education
+                </a>
+               </span>
+               <a data-trk="prof-0-ovw-edu-label" href="#background-education">
+                Education
+               </a>
+              </th>
+              <td>
+               <ol>
+                <li>
+                 <a href="https://www.linkedin.com/edu/school?id=18762&amp;trk=prof-0-ovw-edu" title="More details for this school">
+                  Campbell University
+                 </a>
+                </li>
+               </ol>
+               <a class="jump-to-section" href="#background-education" id="control_gen_7">
+                Edit education
+               </a>
+              </td>
+             </tr>
+            </tbody>
+           </table>
+          </div>
+          <div class="profile-aux">
+           <div class="member-connections">
+            <strong>
+             <a class="connections-link" href="#connections">
+              343
+             </a>
+            </strong>
+            connections
+           </div>
+           <div class="profile-actions view-actions outside-dropdown">
+            <div class="katy-button-group button-group-primary">
+             <a class="button-primary" data-action-name="send-message" href="https://www.linkedin.com/msgToConns?displayCreate=&amp;connId=140416934&amp;goback=%2Enppvan_loh*5weihan*59720373b&amp;trk=prof-0-sb-message-button" id="tc-actions-send-message">
+              Send a message
+             </a>
+             <div class="katy-button-menu" id="secondary-actions-dropdown">
+              <button aria-expanded="false" class="more-options dropdown-caret" role="button" tabindex="0">
+               <span class="caret">
+                More options
+               </span>
+              </button>
+              <dl class="connect-menu" tabindex="-1">
+               <dt tabindex="0">
+                Interact
+               </dt>
+               <dd tabindex="0">
+                <a href="https://www.linkedin.com/pulse/activities/loh-weihan+0_2bNwodinTBo6clMfcZ1rCh?trk=prof-0-sb-rcnt-act-link">
+                 View recent activity
+                </a>
+               </dd>
+               <dd tabindex="0">
+                <a href="https://www.linkedin.com/recs/give?memberId=140416934">
+                 Recommend
+                </a>
+               </dd>
+               <dd tabindex="0">
+                <a class="open-endorse-skills" href="javascript:void(0)" role="button">
+                 Endorse
+                </a>
+               </dd>
+               <dt tabindex="0">
+                Profile
+               </dt>
+               <dd tabindex="0">
+                <form action="/messaging/compose?csrfToken=ajax%3A8684745105436372934&amp;goback=%2Enppvan_loh*5weihan*59720373b" method="POST">
+                 <input name="connId" type="hidden" value=""/>
+                 <input name="body" type="hidden" value="I found Loh Weihan on LinkedIn and thought you might be interested. I would be happy to introduce you to them through my network. https://sg.linkedin.com/in/loh-weihan-9720373b"/>
+                 <button class="share-profile-wonton-compose-btn" type="submit">
+                  Share profile
+                 </button>
+                </form>
+               </dd>
+               <dd tabindex="0">
+                <a href="https://www.linkedin.com/profile/pdf?id=AAEAAAhel6YBIIWsOxV5Ueo4sgQbwhL32oGzdks&amp;locale=en_US&amp;authType=name&amp;authToken=YiBr&amp;pdfFileName=LohWeihan&amp;disablePdfCompression=true&amp;trk=pdf_pro_full" name="exportToPdf">
+                 Save to PDF
+                </a>
+               </dd>
+               <dd tabindex="0">
+                <a href="https://www.linkedin.com/profile/flag?id=AAEAAAhel6YBIIWsOxV5Ueo4sgQbwhL32oGzdks&amp;authType=name&amp;authToken=YiBr&amp;csrfToken=ajax%3A8684745105436372934&amp;goback=%2Enppvan_loh*5weihan*59720373b&amp;trk=prof-0-ab-flag-0" id="BlockAndReportDialogLink">
+                 Block or report
+                </a>
+               </dd>
+               <dt class="break-connection-separator" tabindex="0">
+               </dt>
+               <dd id="break-connection-option" tabindex="0">
+                <form action="/profile/remove-from-network?id=140416934&amp;csrfToken=ajax%3A8684745105436372934&amp;goback=%2Enppvan_loh*5weihan*59720373b" id="nprofile-remove-from-network-form" method="POST">
+                 <a href="javascript:void(0);" id="nprofile-remove-from-network">
+                  Remove connection
+                 </a>
+                </form>
+               </dd>
+              </dl>
+             </div>
+             <!-- /button-menu -->
+            </div>
+            <!-- /button-group-primary AND button-group-secondary -->
+           </div>
+           <!-- /profile-actions -->
+           <div class="profile-actions edit-actions">
+            <button class="button-primary done-edit-profile" data-page-key="nprofile_view_nonself" data-page-tracking-info='{"vid": "140416934", "nd": "0", "lnl": "f"}' data-page-type="full_page" data-trk="prof-edit-done_editing-button">
+             <span>
+              Done editing
+             </span>
+            </button>
+            <button class="button-primary save-exit-profile" data-page-key="nprofile_view_nonself" data-page-tracking-info='{"vid": "140416934", "nd": "0", "lnl": "f"}' data-page-type="full_page" data-trk="prof-edit-save_and_exit-button" style="display: none;">
+             <span>
+              Save and Exit
+             </span>
+            </button>
+           </div>
+          </div>
+          <!-- /profile-aux -->
+         </div>
+         <!-- End profile-overview -->
+        </div>
+        <!-- End profile card -->
+        <div class="profile-card-extras">
+         <div aria-labelledby="contact-info-tab" class="more-info defer-load" data-li-template="contact_info" id="contact-info-section" role="tabpanel" tabindex="-1">
+          <span class="loading">
+          </span>
+          <table summary="Online Contact Info">
+           <tbody>
+            <tr>
+             <th>
+              Email
+             </th>
+             <td>
+              <div id="email">
+               <div id="email-view">
+                <ul>
+                 <li>
+                  <a href="mailto:whloh77@yahoo.com">
+                   whloh77@yahoo.com
+                  </a>
+                 </li>
+                </ul>
+               </div>
+              </div>
+             </td>
+            </tr>
+            <tr class="no-contact-info-data">
+             <th>
+              IM
+             </th>
+             <td>
+              <div class="editable-item" id="im">
+              </div>
+             </td>
+            </tr>
+            <tr class="address-book">
+             <th>
+              Address book
+             </th>
+             <td>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <table summary="Contact Info">
+           <tbody>
+            <tr class="no-contact-info-data">
+             <th>
+              Phone
+             </th>
+             <td>
+              <div class="editable-item" id="phone">
+               <div id="phone-view">
+                <ul>
+                </ul>
+               </div>
+              </div>
+             </td>
+            </tr>
+            <tr class="no-contact-info-data">
+             <th>
+              Address
+             </th>
+             <td>
+              <div class="editable-item" id="address">
+               <div id="address-view">
+                <ul>
+                </ul>
+               </div>
+              </div>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+          <hr class="no-contact-info-data"/>
+          <table class="no-contact-info-data" id="internet-presence-table" summary="Internet Presence">
+           <tbody>
+            <tr class="twitter-presence no-contact-info-data">
+             <th>
+              Twitter
+             </th>
+             <td>
+              <div class="editable-item" id="twitter">
+              </div>
+             </td>
+            </tr>
+            <tr class="wechat-presence no-contact-info-data">
+             <th>
+              <span class="logo">
+              </span>
+              WeChat
+             </th>
+             <td>
+              <div class="editable-item" data-no-contact-class="no-contact-info-data" data-qr1-promo-url="/chatin/wechatqr/qrcodeforbinding?trk=hp_promo" data-qr1-url="/chatin/wechatqr/qrcodeforbinding?trk=profile" data-qr2-description="" data-qr2-relationship-url="/chatin/wechatqr/qrimage?_ed=0_u6tOifsD0jIqdPynbi3G6QAt2KcwmwEqNsAcht0xluOJG--cckeFCoipRAcNLWrR&amp;trk=profile_relationship" data-qr2-title="" data-qr2-url="/chatin/wechatqr/qrimage?_ed=0_u6tOifsD0jIqdPynbi3G6QAt2KcwmwEqNsAcht0xluOJG--cckeFCoipRAcNLWrR&amp;trk=profile" data-selfview="" id="wechat">
+               <div id="wechat-view">
+                <a class="username" href="">
+                </a>
+               </div>
+              </div>
+             </td>
+            </tr>
+            <tr class="www-presence no-contact-info-data">
+             <th>
+              Websites
+             </th>
+             <td>
+              <div class="editable-item" id="website">
+              </div>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </div>
+         <div class="profile-actions " role="tablist">
+          <ul>
+           <li>
+            <dl class="public-profile">
+             <dt>
+              Public Profile
+             </dt>
+             <dd>
+              <a class="view-public-profile" href="https://sg.linkedin.com/in/loh-weihan-9720373b">
+               https://sg.linkedin.com/in/loh-weihan-9720373b
+              </a>
+             </dd>
+            </dl>
+           </li>
+          </ul>
+          <div class="show-more-info">
+           <a aria-controls="contact-info-section" aria-selected="false" href="#" id="contact-info-tab" role="tab">
+            <span class="contact">
+             Contact Info
+            </span>
+           </a>
+          </div>
+         </div>
+         <!-- /profile-actions -->
+        </div>
+       </div>
+      </div>
+      <div class="profile-background" id="background">
+       <h2>
+        Background
+       </h2>
+       <div class="background-content ">
+        <div class="background-section" data-li-template="experience_section" id="background-experience-container">
+         <div class="background-experience edit-default" id="background-experience">
+          <h3>
+           Experience
+          </h3>
+          <div class="editable-item section-item current-position" id="experience-540074993">
+           <div id="experience-540074993-view">
+            <header>
+             <h5 aria-hidden="true" class="experience-logo">
+              <a href="https://www.linkedin.com/company/1618?trk=prof-exp-company-name">
+               <span class="new-miniprofile-container /biz/miniprofile/1618?pathWildcard=1618" data-li-getjs="https://static.licdn.com/scds/concat/common/js?h=40vfeoewuurexnhvi1o2qiknu&amp;fc=2" data-li-url="/biz/miniprofile/1618?pathWildcard=1618" data-tracking="mcp_profile_sum">
+                <strong>
+                 <img alt="" class="lazy-load" data-li-src="https://media.licdn.com/media/p/4/000/14c/297/122a6d3.png" src="Loh%20Weihan%20_%20LinkedIn_files/122a6d3.png"/>
+                </strong>
+               </span>
+              </a>
+             </h5>
+             <h4>
+              <a href="https://www.linkedin.com/title/application-delivery-manager?trk=mprofile_title" title="Learn more about this title">
+               Application Delivery Manager
+              </a>
+             </h4>
+             <h5>
+              <span class="new-miniprofile-container /biz/miniprofile/1618?pathWildcard=1618" data-li-getjs="https://static.licdn.com/scds/concat/common/js?h=40vfeoewuurexnhvi1o2qiknu&amp;fc=2" data-li-url="/biz/miniprofile/1618?pathWildcard=1618" data-tracking="mcp_profile_sum">
+               <strong>
+                <a dir="auto" href="https://www.linkedin.com/company/1618?trk=prof-exp-company-name">
+                 STMicroelectronics
+                </a>
+               </strong>
+              </span>
+             </h5>
+            </header>
+            <span class="experience-date-locale">
+             <time>
+              September 2013
+             </time>
+             – Present (2 years 10 months)
+             <span class="locality">
+              Singapore
+             </span>
+            </span>
+            <p class="description summary-field-show-more" dir="ltr">
+             Direct report: Head of Department, Manufacturing Application Delivery
+             <br/>
+             - Manage the deliverables for PTM/Backend critical manufacturing 
+applications - MES (FactoryWORKs 2/3X), CMMS (XSite 3X), EMCS, 
+Perishabable Material Control, Quality Dashboard and etc.
+             <br/>
+             - To be a single point-of-contact for all PTM application matters 
+through building and maintaining strong relationships with Business 
+Service Managers and Vendor.
+             <br/>
+             - Collaborate with Business analysts to identify requirements to meet business needs.
+             <br/>
+             - Translate business requirements into application solutions, including 
+providing specifications for Vendor technical consultants to complete 
+the requirements.
+             <br/>
+             - Responsible in planning, executing and evaluating the projects within a pre-determined timeline, budget and resources.
+             <br/>
+             - Managing the projects together with Vendor managers includes forming 
+the project team and structure, reporting on project status, assess the 
+risk of the project as well highlight/escalate any issues and come up 
+with mitigation.
+            </p>
+           </div>
+          </div>
+          <div class="editable-item section-item past-position" id="experience-540077164">
+           <div id="experience-540077164-view">
+            <header>
+             <h5 aria-hidden="true" class="experience-logo">
+              <a href="https://www.linkedin.com/company/1618?trk=prof-exp-company-name">
+               <span class="new-miniprofile-container /biz/miniprofile/1618?pathWildcard=1618" data-li-getjs="https://static.licdn.com/scds/concat/common/js?h=40vfeoewuurexnhvi1o2qiknu&amp;fc=2" data-li-url="/biz/miniprofile/1618?pathWildcard=1618" data-tracking="mcp_profile_sum">
+                <strong>
+                 <img alt="" class="lazy-load" data-li-src="https://media.licdn.com/media/p/4/000/14c/297/122a6d3.png" src="Loh%20Weihan%20_%20LinkedIn_files/spacer.gif"/>
+                </strong>
+               </span>
+              </a>
+             </h5>
+             <h4>
+              <a href="https://www.linkedin.com/title/mes-application-manager?trk=mprofile_title" title="Learn more about this title">
+               MES Application Manager
+              </a>
+             </h4>
+             <h5>
+              <span class="new-miniprofile-container /biz/miniprofile/1618?pathWildcard=1618" data-li-getjs="https://static.licdn.com/scds/concat/common/js?h=40vfeoewuurexnhvi1o2qiknu&amp;fc=2" data-li-url="/biz/miniprofile/1618?pathWildcard=1618" data-tracking="mcp_profile_sum">
+               <strong>
+                <a dir="auto" href="https://www.linkedin.com/company/1618?trk=prof-exp-company-name">
+                 STMicroelectronics
+                </a>
+               </strong>
+              </span>
+             </h5>
+            </header>
+            <span class="experience-date-locale">
+             <time>
+              February 2009
+             </time>
+             –
+             <time>
+              September 2013
+             </time>
+             (4 years 8 months)
+            </span>
+            <p class="description summary-field-show-more" dir="ltr">
+             Direct report: Head of Department, Manufacturing Compentence Center
+             <br/>
+             Subordinate: 13 ( 8 permanent staffs and 5 subcontractors)
+             <br/>
+             - Manage the MES/Production applications support team in terms of 
+defining application support plan, objectives, job responsibilities 
+including application management and 24x7x365 global support for 7 ST 
+backend plants (worldwide).
+             <br/>
+             - Manage the MES development team for CR/BR changes and softwares upgrades/qualifications.
+             <br/>
+             - Coordinate and manage deployment of the MES releases and upgrades.
+             <br/>
+             - Work with Solution Architect to define the technical roadmap, 
+technical implementation of the MES system and makes sure that changes 
+fit in the overall architecture.
+             <br/>
+             - Work with Project Manager to make sure deliverable of the custom software release and plant deployment roadmap.
+             <br/>
+             - Work with Business Solution Group team for Plant deployment or migration.
+             <br/>
+             - Work with Business Analysts for the gap analysis and RAD/SRS discussion (CR).
+             <br/>
+             - Plants Deployment/ Migration:
+             <br/>
+             – Long Gang plant deployment (Jan 2009)
+             <br/>
+             – Muar plant migration (Jan 2011, Feb 2012, Jun 2012, Aug 2012)
+             <br/>
+             – ShenZhen plant migration (Jun 2012, Oct 2013, Sept 2013)
+             <br/>
+             – Calamba plant big bang deployment (May 2013).
+             <br/>
+             <br/>
+             Achievements:
+             <br/>
+             - Muar Deployment project (Silver CEO Star Award, 2013)
+             <br/>
+             - Merging the FW2X and FW3X support team to increase synergization on 2 MES support teams, 2011.
+             <br/>
+             - Paperless Manufacturing in Longgang plant ( Bronze in CEO Star Award, 2010)
+             <br/>
+             - Muar MES system deployment - Migration BGA Flip Chip Line completed successfully with no showstoppers, 2010
+             <br/>
+             - Delivered 4 Custom Major Releases yearly to fullfill the business requirement changes.
+            </p>
+           </div>
+          </div>
+          <div class="editable-item section-item past-position" id="experience-215427581">
+           <div id="experience-215427581-view">
+            <header>
+             <h5 aria-hidden="true" class="experience-logo">
+              <a href="https://www.linkedin.com/company/1618?trk=prof-exp-company-name">
+               <span class="new-miniprofile-container /biz/miniprofile/1618?pathWildcard=1618" data-li-getjs="https://static.licdn.com/scds/concat/common/js?h=40vfeoewuurexnhvi1o2qiknu&amp;fc=2" data-li-url="/biz/miniprofile/1618?pathWildcard=1618" data-tracking="mcp_profile_sum">
+                <strong>
+                 <img alt="" class="lazy-load" data-li-src="https://media.licdn.com/media/p/4/000/14c/297/122a6d3.png" src="Loh%20Weihan%20_%20LinkedIn_files/spacer.gif"/>
+                </strong>
+               </span>
+              </a>
+             </h5>
+             <h4>
+              <a href="https://www.linkedin.com/title/senior-system-analyst-%28technical-lead%29?trk=mprofile_title" title="Learn more about this title">
+               Senior System Analyst (Technical Lead)
+              </a>
+             </h4>
+             <h5>
+              <span class="new-miniprofile-container /biz/miniprofile/1618?pathWildcard=1618" data-li-getjs="https://static.licdn.com/scds/concat/common/js?h=40vfeoewuurexnhvi1o2qiknu&amp;fc=2" data-li-url="/biz/miniprofile/1618?pathWildcard=1618" data-tracking="mcp_profile_sum">
+               <strong>
+                <a dir="auto" href="https://www.linkedin.com/company/1618?trk=prof-exp-company-name">
+                 STMicroelectronics
+                </a>
+               </strong>
+              </span>
+             </h5>
+            </header>
+            <span class="experience-date-locale">
+             <time>
+              January 2006
+             </time>
+             –
+             <time>
+              February 2009
+             </time>
+             (3 years 2 months)
+            </span>
+            <p class="description summary-field-show-more" dir="ltr">
+             - As a technical mentor for the team and provide the trainings – technical, business processes and etc.
+             <br/>
+             - Work with Business Analysts to prepare design document including the impact analysis to fulfill the customer requirement.
+             <br/>
+             - Assist for custom release deployment for manufacturing plants - Remedy
+ incident and problem ticket /Support the production issues.
+             <br/>
+             - Define the coding standards - prepare technical review and code review
+ - Develop, customize, maintain current system, study and apply the new 
+process flow, database performance tuning, etc.
+             <br/>
+             - Define/ set up the operation procedures with team members - Documentation, versioning and Soure control - System Packaging
+             <br/>
+             <br/>
+             Achievements: - Successfully take over the FW2 project (FW3X MES) from vendor, 2008
+             <br/>
+             <br/>
+             Technical Background: - AMAT Factoryworks V3.4.
+             <br/>
+             - Programming Tools: Microsoft VB6, Ms.Net2003 and 2008 (C# and ASP.Net), MS C++
+             <br/>
+             - RDBMS: Oracle 10g (PL/SQL)
+             <br/>
+             - Web Server: IIS6 and 7, Apache Tomcat 4
+             <br/>
+             - Platform: Unix, Windows server 2008, Windows Server 2003, Win XP, Vista, 7
+             <br/>
+             - Other tools: MS Visual SourceSafe, Rational Clearcase, Ms Project, Ms 
+Visio, Altova XMLSpy, Tibco RV, Crystal Report XI and 2008
+            </p>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="background-section" data-li-template="volunteering_section" id="background-volunteering-container">
+         <div class="background-volunteering" id="background-volunteering">
+          <h3>
+           Volunteer Experience &amp; Causes
+          </h3>
+          <div class="editable-item no-content" id="volunteering-opportunities">
+           <div class="volunteer-section no-content" id="volunteering-opportunities-view">
+            <h4 class="volunteering-interests-special-header">
+             Opportunities Loh is looking for:
+            </h4>
+            <span class="volunteering-interests-hint volunteering-interests-special-header">
+             How would you like to donate your time and talent?
+            </span>
+           </div>
+          </div>
+          <div class="editable-item section-item first" id="volunteering-interests">
+           <div class="volunteer-section" id="volunteering-causes-view">
+            <div class="interests">
+             <h4>
+              Causes Loh cares about:
+             </h4>
+             <span class="volunteering-interests-hint volunteering-interests-special-header">
+              Topics and causes that matter to you.
+             </span>
+             <ul class="volunteering-listing">
+              <li>
+               Children
+              </li>
+              <li>
+               Economic Empowerment
+              </li>
+              <li>
+               Education
+              </li>
+              <li>
+               Health
+              </li>
+              <li>
+               Science and Technology
+              </li>
+             </ul>
+            </div>
+           </div>
+           <div class="volunteer-section no-content" id="volunteering-organizations-view">
+            <div class="non-profits ">
+             <h4 class="volunteering-interests-special-header">
+              Organizations Loh supports:
+             </h4>
+             <span class="volunteering-interests-hint volunteering-interests-special-header">
+              What are your favorite organizations?
+             </span>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="background-section" data-li-template="languages_section" id="background-languages-container">
+         <div class="background-languages" id="background-languages">
+          <h3>
+           Languages
+          </h3>
+          <div class="editable-item" id="languages">
+           <div id="languages-view">
+            <ol>
+             <li class="section-item">
+              <h4>
+               <span dir="auto">
+                English
+               </span>
+              </h4>
+             </li>
+             <li class="section-item">
+              <h4>
+               <span dir="auto">
+                Malay
+               </span>
+              </h4>
+             </li>
+             <li class="section-item">
+              <h4>
+               <span dir="auto">
+                Chinese
+               </span>
+              </h4>
+             </li>
+            </ol>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="background-section" data-li-template="skills_section" id="background-skills-container">
+         <div class="background-skills edit-default" id="background-skills">
+          <div class="hd">
+           <h3>
+            Skills
+           </h3>
+          </div>
+          <div id="skills-error-alert">
+          </div>
+          <div class="editable-item" id="skills-item">
+           <div id="skills-item-view">
+            <div id="profile-skills">
+             <h5>
+              Top Skills
+             </h5>
+             <ul class="skills-section">
+              <li class="endorse-item has-endorsements endorsable" data-endorsed-item-name="Semiconductors" data-endorsement-id="">
+               <span class="skill-pill">
+                <a class="endorse-count" href="javascript:void(0)" role="button" title="See endorsers">
+                 <span class="num-endorsements" data-count="25">
+                  25
+                 </span>
+                </a>
+                <span class="endorse-item-name">
+                 <a class="endorse-item-name-text" href="https://www.linkedin.com/topic/semiconductors?trk=mprofile_topic" title="Learn more about this skill">
+                  Semiconductors
+                 </a>
+                </span>
+               </span>
+               <div class="endorsers-container">
+                <ul class="endorsers-pics">
+                 <li class="viewer-pic-container">
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3qmNk_r7tEdvwqBv4w3OneM" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3qmNk_r7tEdvwqBv4w3OneM" data-tracking="">
+                   <strong>
+                    <img class="viewer-pic small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/AAEAAQAAAAAAAALMAAAAJDVmZTJmMGU2LTc2MjItNGM1OS04ZTM2LTgzMzkx.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3pnExVol8QfcFElP3v2umLe" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3pnExVol8QfcFElP3v2umLe" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/106cc7e.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_3tuhFZSemuUGDeRGOo76tDJp7E6ffhkExV8pdCWoTuvo-i3LAgkGCE_HcRnqCQic" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_3tuhFZSemuUGDeRGOo76tDJp7E6ffhkExV8pdCWoTuvo-i3LAgkGCE_HcRnqCQic" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/28d66a7.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3pItctRD9z-PZgRhlGFH40_" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3pItctRD9z-PZgRhlGFH40_" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/2e30623.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3rNZ_gOUvDqvX-7M9bApMhK" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3rNZ_gOUvDqvX-7M9bApMhK" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/2a53cfe.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3rn0BIHnLbwEubnqrYiZIcX" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3rn0BIHnLbwEubnqrYiZIcX" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/2fdb202.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8Pci88wHOMcuh3ieFfBxhdm" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8Pci88wHOMcuh3ieFfBxhdm" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/348b8fb.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8OGksplh3qRFKm3MtMEa_vN" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8OGksplh3qRFKm3MtMEa_vN" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/2dac521.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8Ng9OXiVMQKingtLiS2vT2-" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8Ng9OXiVMQKingtLiS2vT2-" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/ghost_person_30x30_v1.png" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3pShtkAgQDOkI0hAUVc7x4J" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3pShtkAgQDOkI0hAUVc7x4J" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/11df35c.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3oyAA3Tp0kCrulkIltmEYKg" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3oyAA3Tp0kCrulkIltmEYKg" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/AAEAAQAAAAAAAAkIAAAAJDJiZTdiMWM4LWVhZGItNGVhMC1iOTQ3LWIyMGNl.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3olemlpFZaRuZnsV8ARUbzU" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3olemlpFZaRuZnsV8ARUbzU" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/ghost_person_30x30_v1.png" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li class="endorsers-action">
+                  <a class="see-all-endorsers" href="javascript:void(0)" role="button">
+                   <span class="loader">
+                   </span>
+                  </a>
+                 </li>
+                </ul>
+                <a class="endorse-button" href="javascript:void(0)" role="button">
+                 <span class="endorsing">
+                  <span class="endorse-plus">
+                  </span>
+                  <span class="endorse-minus">
+                  </span>
+                  <span class="endorse-text">
+                   Endorse
+                  </span>
+                  <span class="unendorse-text">
+                   Remove Endorsement
+                  </span>
+                 </span>
+                 <span class="line-container">
+                  <span class="hr-line">
+                  </span>
+                 </span>
+                </a>
+               </div>
+              </li>
+              <li class="endorse-item has-endorsements endorsable" data-endorsed-item-name="System Architecture" data-endorsement-id="">
+               <span class="skill-pill">
+                <a class="endorse-count" href="javascript:void(0)" role="button" title="See endorsers">
+                 <span class="num-endorsements" data-count="22">
+                  22
+                 </span>
+                </a>
+                <span class="endorse-item-name">
+                 <a class="endorse-item-name-text" href="https://www.linkedin.com/topic/system-architecture?trk=mprofile_topic" title="Learn more about this skill">
+                  System Architecture
+                 </a>
+                </span>
+               </span>
+               <div class="endorsers-container">
+                <ul class="endorsers-pics">
+                 <li class="viewer-pic-container">
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3qmNk_r7tEdvwqBv4w3OneM" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3qmNk_r7tEdvwqBv4w3OneM" data-tracking="">
+                   <strong>
+                    <img class="viewer-pic small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/AAEAAQAAAAAAAALMAAAAJDVmZTJmMGU2LTc2MjItNGM1OS04ZTM2LTgzMzkx.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3pItctRD9z-PZgRhlGFH40_" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3pItctRD9z-PZgRhlGFH40_" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/2e30623.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8Ml1uNr3rvIEa7hjXBo2R62" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8Ml1uNr3rvIEa7hjXBo2R62" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/ghost_person_30x30_v1.png" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_3tuhFZSemuUGDeRGOo76tDJp7E6ffhkExV8pdCWoTuvo-i3LAgkGCE_HcRnqCQic" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_3tuhFZSemuUGDeRGOo76tDJp7E6ffhkExV8pdCWoTuvo-i3LAgkGCE_HcRnqCQic" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/28d66a7.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3rn9840JZd1NHEH8zqDhfeN" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3rn9840JZd1NHEH8zqDhfeN" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/3bdb500.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8Ml0sZ7oQyv36TZzo5qa8zF" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8Ml0sZ7oQyv36TZzo5qa8zF" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/AAEAAQAAAAAAAAPtAAAAJGViODUwY2EzLWQ1M2UtNDAyOC1iNDE0LWNmMWU1.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8PjktCiP2xXjEGV7fAhTghv" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8PjktCiP2xXjEGV7fAhTghv" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/213c260.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_3tuhFZSemuUGDeRGOo76tDJp7E6ffhkExV8pdCWoTuugffdzvR0OlQ3XRR2zg2I5" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_3tuhFZSemuUGDeRGOo76tDJp7E6ffhkExV8pdCWoTuugffdzvR0OlQ3XRR2zg2I5" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/AAEAAQAAAAAAAAZkAAAAJGJmNTg0NjA2LTcxNjMtNGVhNi1hMGViLWYxNDI5.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_3tuhFZSemuUGDeRGOo76tDJp7E6ffhkExV8pdCWoTusr3LQDeQ5IajY5ZiNqiXOm" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_3tuhFZSemuUGDeRGOo76tDJp7E6ffhkExV8pdCWoTusr3LQDeQ5IajY5ZiNqiXOm" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/3273b71.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3opXxqyPSAqBLeCwpIxbaF-" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3opXxqyPSAqBLeCwpIxbaF-" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/ghost_person_30x30_v1.png" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3pnExVol8QfcFElP3v2umLe" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3pnExVol8QfcFElP3v2umLe" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/106cc7e.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3rn0BIHnLbwEubnqrYiZIcX" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3rn0BIHnLbwEubnqrYiZIcX" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/2fdb202.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li class="endorsers-action">
+                  <a class="see-all-endorsers" href="javascript:void(0)" role="button">
+                   <span class="loader">
+                   </span>
+                  </a>
+                 </li>
+                </ul>
+                <a class="endorse-button" href="javascript:void(0)" role="button">
+                 <span class="endorsing">
+                  <span class="endorse-plus">
+                  </span>
+                  <span class="endorse-minus">
+                  </span>
+                  <span class="endorse-text">
+                   Endorse
+                  </span>
+                  <span class="unendorse-text">
+                   Remove Endorsement
+                  </span>
+                 </span>
+                 <span class="line-container">
+                  <span class="hr-line">
+                  </span>
+                 </span>
+                </a>
+               </div>
+              </li>
+              <li class="endorse-item has-endorsements endorsable" data-endorsed-item-name="Unix" data-endorsement-id="">
+               <span class="skill-pill">
+                <a class="endorse-count" href="javascript:void(0)" role="button" title="See endorsers">
+                 <span class="num-endorsements" data-count="19">
+                  19
+                 </span>
+                </a>
+                <span class="endorse-item-name">
+                 <a class="endorse-item-name-text" href="https://www.linkedin.com/topic/unix?trk=mprofile_topic" title="Learn more about this skill">
+                  Unix
+                 </a>
+                </span>
+               </span>
+               <div class="endorsers-container">
+                <ul class="endorsers-pics">
+                 <li class="viewer-pic-container">
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3qmNk_r7tEdvwqBv4w3OneM" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3qmNk_r7tEdvwqBv4w3OneM" data-tracking="">
+                   <strong>
+                    <img class="viewer-pic small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/AAEAAQAAAAAAAALMAAAAJDVmZTJmMGU2LTc2MjItNGM1OS04ZTM2LTgzMzkx.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8NHKTdkx03lGn4x8GoKxd_I" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8NHKTdkx03lGn4x8GoKxd_I" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/2ef0f33.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8MR14lggnTlznxtcg2yFvPm" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8MR14lggnTlznxtcg2yFvPm" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/0d2b9a5.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8PpYARqKk4t7C1_eUjyrxsY" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8PpYARqKk4t7C1_eUjyrxsY" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/14ec98c.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8OXJ7lB_vPfL8yiH3uq6clU" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8OXJ7lB_vPfL8yiH3uq6clU" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/AAEAAQAAAAAAAARkAAAAJDQ4OGNlY2FhLWZlNjMtNDg1MC04OTVmLTk5YzMy.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3qsCko99-B1ZaYWbbAMfeLF" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3qsCko99-B1ZaYWbbAMfeLF" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/AAEAAQAAAAAAAAf8AAAAJDM3NWY4YTRhLTlhMDgtNDQ5YS04ZjgxLTFjN2Qx.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8MIOHLjVc6CQkaR3NMNQ3a4" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8MIOHLjVc6CQkaR3NMNQ3a4" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/125fe94.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_3tuhFZSemuUGDeRGOo76tDJp7E6ffhkExV8pdCWoTuvFzthgZRgs6e-YmDIhdADR" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_3tuhFZSemuUGDeRGOo76tDJp7E6ffhkExV8pdCWoTuvFzthgZRgs6e-YmDIhdADR" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/AAEAAQAAAAAAAAWaAAAAJGM5YjhlNWU0LWI0YTItNGY1My1iYWNmLTAyM2Zj.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3qtoiNAX-NAutmdi45fAGkw" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3qtoiNAX-NAutmdi45fAGkw" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/252deb9.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3rcqsEPZmGUSoZ322s8v684" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3rcqsEPZmGUSoZ322s8v684" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/34e948b.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8Ml1uNr3rvIEa7hjXBo2R62" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8Ml1uNr3rvIEa7hjXBo2R62" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/ghost_person_30x30_v1.png" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_3tuhFZSemuUGDeRGOo76tDJp7E6ffhkExV8pdCWoTutnRWneEsEbq-h6dGn8MNN8" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_3tuhFZSemuUGDeRGOo76tDJp7E6ffhkExV8pdCWoTutnRWneEsEbq-h6dGn8MNN8" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/03001bf.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li class="endorsers-action">
+                  <a class="see-all-endorsers" href="javascript:void(0)" role="button">
+                   <span class="loader">
+                   </span>
+                  </a>
+                 </li>
+                </ul>
+                <a class="endorse-button" href="javascript:void(0)" role="button">
+                 <span class="endorsing">
+                  <span class="endorse-plus">
+                  </span>
+                  <span class="endorse-minus">
+                  </span>
+                  <span class="endorse-text">
+                   Endorse
+                  </span>
+                  <span class="unendorse-text">
+                   Remove Endorsement
+                  </span>
+                 </span>
+                 <span class="line-container">
+                  <span class="hr-line">
+                  </span>
+                 </span>
+                </a>
+               </div>
+              </li>
+              <li class="endorse-item has-endorsements endorsable" data-endorsed-item-name="Software Project Management" data-endorsement-id="">
+               <span class="skill-pill">
+                <a class="endorse-count" href="javascript:void(0)" role="button" title="See endorsers">
+                 <span class="num-endorsements" data-count="17">
+                  17
+                 </span>
+                </a>
+                <span class="endorse-item-name">
+                 <a class="endorse-item-name-text" href="https://www.linkedin.com/topic/software-project-management?trk=mprofile_topic" title="Learn more about this skill">
+                  Software Project...
+                 </a>
+                </span>
+               </span>
+               <div class="endorsers-container">
+                <ul class="endorsers-pics">
+                 <li class="viewer-pic-container">
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3qmNk_r7tEdvwqBv4w3OneM" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3qmNk_r7tEdvwqBv4w3OneM" data-tracking="">
+                   <strong>
+                    <img class="viewer-pic small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/AAEAAQAAAAAAAALMAAAAJDVmZTJmMGU2LTc2MjItNGM1OS04ZTM2LTgzMzkx.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8OXJ7lB_vPfL8yiH3uq6clU" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8OXJ7lB_vPfL8yiH3uq6clU" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/AAEAAQAAAAAAAARkAAAAJDQ4OGNlY2FhLWZlNjMtNDg1MC04OTVmLTk5YzMy.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8NHKTdkx03lGn4x8GoKxd_I" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8NHKTdkx03lGn4x8GoKxd_I" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/2ef0f33.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8MR14lggnTlznxtcg2yFvPm" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8MR14lggnTlznxtcg2yFvPm" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/0d2b9a5.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3pShtkAgQDOkI0hAUVc7x4J" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3pShtkAgQDOkI0hAUVc7x4J" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/11df35c.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3rn9840JZd1NHEH8zqDhfeN" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3rn9840JZd1NHEH8zqDhfeN" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/3bdb500.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3rx40eWL0037vPQRWDa56B8" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3rx40eWL0037vPQRWDa56B8" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/2757f49.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_3tuhFZSemuUGDeRGOo76tDJp7E6ffhkExV8pdCWoTutnRWneEsEbq-h6dGn8MNN8" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_3tuhFZSemuUGDeRGOo76tDJp7E6ffhkExV8pdCWoTutnRWneEsEbq-h6dGn8MNN8" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/03001bf.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3rcqsEPZmGUSoZ322s8v684" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3rcqsEPZmGUSoZ322s8v684" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/34e948b.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3qtoiNAX-NAutmdi45fAGkw" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3qtoiNAX-NAutmdi45fAGkw" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/252deb9.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_3tuhFZSemuUGDeRGOo76tDJp7E6ffhkExV8pdCWoTuvo-i3LAgkGCE_HcRnqCQic" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_3tuhFZSemuUGDeRGOo76tDJp7E6ffhkExV8pdCWoTuvo-i3LAgkGCE_HcRnqCQic" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/28d66a7.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3pnExVol8QfcFElP3v2umLe" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3pnExVol8QfcFElP3v2umLe" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/106cc7e.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li class="endorsers-action">
+                  <a class="see-all-endorsers" href="javascript:void(0)" role="button">
+                   <span class="loader">
+                   </span>
+                  </a>
+                 </li>
+                </ul>
+                <a class="endorse-button" href="javascript:void(0)" role="button">
+                 <span class="endorsing">
+                  <span class="endorse-plus">
+                  </span>
+                  <span class="endorse-minus">
+                  </span>
+                  <span class="endorse-text">
+                   Endorse
+                  </span>
+                  <span class="unendorse-text">
+                   Remove Endorsement
+                  </span>
+                 </span>
+                 <span class="line-container">
+                  <span class="hr-line">
+                  </span>
+                 </span>
+                </a>
+               </div>
+              </li>
+              <li class="endorse-item has-endorsements endorsable" data-endorsed-item-name="Software Development" data-endorsement-id="">
+               <span class="skill-pill">
+                <a class="endorse-count" href="javascript:void(0)" role="button" title="See endorsers">
+                 <span class="num-endorsements" data-count="16">
+                  16
+                 </span>
+                </a>
+                <span class="endorse-item-name">
+                 <a class="endorse-item-name-text" href="https://www.linkedin.com/topic/software-development?trk=mprofile_topic" title="Learn more about this skill">
+                  Software Development
+                 </a>
+                </span>
+               </span>
+               <div class="endorsers-container">
+                <ul class="endorsers-pics">
+                 <li class="viewer-pic-container">
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3qmNk_r7tEdvwqBv4w3OneM" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3qmNk_r7tEdvwqBv4w3OneM" data-tracking="">
+                   <strong>
+                    <img class="viewer-pic small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/AAEAAQAAAAAAAALMAAAAJDVmZTJmMGU2LTc2MjItNGM1OS04ZTM2LTgzMzkx.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8MR14lggnTlznxtcg2yFvPm" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8MR14lggnTlznxtcg2yFvPm" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/0d2b9a5.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3rNZ_gOUvDqvX-7M9bApMhK" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3rNZ_gOUvDqvX-7M9bApMhK" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/2a53cfe.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8PpYARqKk4t7C1_eUjyrxsY" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8PpYARqKk4t7C1_eUjyrxsY" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/14ec98c.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3rn9840JZd1NHEH8zqDhfeN" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3rn9840JZd1NHEH8zqDhfeN" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/3bdb500.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_3tuhFZSemuUGDeRGOo76tDJp7E6ffhkExV8pdCWoTuvFzthgZRgs6e-YmDIhdADR" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_3tuhFZSemuUGDeRGOo76tDJp7E6ffhkExV8pdCWoTuvFzthgZRgs6e-YmDIhdADR" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/AAEAAQAAAAAAAAWaAAAAJGM5YjhlNWU0LWI0YTItNGY1My1iYWNmLTAyM2Zj.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3rcqsEPZmGUSoZ322s8v684" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3rcqsEPZmGUSoZ322s8v684" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/34e948b.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8PrXgHe7bTUSDJlQ85u4D2O" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8PrXgHe7bTUSDJlQ85u4D2O" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/06deffe.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_3tuhFZSemuUGDeRGOo76tDJp7E6ffhkExV8pdCWoTuvo-i3LAgkGCE_HcRnqCQic" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_3tuhFZSemuUGDeRGOo76tDJp7E6ffhkExV8pdCWoTuvo-i3LAgkGCE_HcRnqCQic" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/28d66a7.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8Ml0sZ7oQyv36TZzo5qa8zF" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8Ml0sZ7oQyv36TZzo5qa8zF" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/AAEAAQAAAAAAAAPtAAAAJGViODUwY2EzLWQ1M2UtNDAyOC1iNDE0LWNmMWU1.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3pnExVol8QfcFElP3v2umLe" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3pnExVol8QfcFElP3v2umLe" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/106cc7e.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3rn0BIHnLbwEubnqrYiZIcX" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3rn0BIHnLbwEubnqrYiZIcX" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/2fdb202.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li class="endorsers-action">
+                  <a class="see-all-endorsers" href="javascript:void(0)" role="button">
+                   <span class="loader">
+                   </span>
+                  </a>
+                 </li>
+                </ul>
+                <a class="endorse-button" href="javascript:void(0)" role="button">
+                 <span class="endorsing">
+                  <span class="endorse-plus">
+                  </span>
+                  <span class="endorse-minus">
+                  </span>
+                  <span class="endorse-text">
+                   Endorse
+                  </span>
+                  <span class="unendorse-text">
+                   Remove Endorsement
+                  </span>
+                 </span>
+                 <span class="line-container">
+                  <span class="hr-line">
+                  </span>
+                 </span>
+                </a>
+               </div>
+              </li>
+              <li class="endorse-item has-endorsements endorsable" data-endorsed-item-name="MES" data-endorsement-id="">
+               <span class="skill-pill">
+                <a class="endorse-count" href="javascript:void(0)" role="button" title="See endorsers">
+                 <span class="num-endorsements" data-count="14">
+                  14
+                 </span>
+                </a>
+                <span class="endorse-item-name">
+                 <a class="endorse-item-name-text" href="https://www.linkedin.com/topic/mes?trk=mprofile_topic" title="Learn more about this skill">
+                  MES
+                 </a>
+                </span>
+               </span>
+               <div class="endorsers-container">
+                <ul class="endorsers-pics">
+                 <li class="viewer-pic-container">
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3qmNk_r7tEdvwqBv4w3OneM" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3qmNk_r7tEdvwqBv4w3OneM" data-tracking="">
+                   <strong>
+                    <img class="viewer-pic small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/AAEAAQAAAAAAAALMAAAAJDVmZTJmMGU2LTc2MjItNGM1OS04ZTM2LTgzMzkx.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3pItctRD9z-PZgRhlGFH40_" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3pItctRD9z-PZgRhlGFH40_" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/2e30623.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3rNZ_gOUvDqvX-7M9bApMhK" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3rNZ_gOUvDqvX-7M9bApMhK" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/2a53cfe.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3olemlpFZaRuZnsV8ARUbzU" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3olemlpFZaRuZnsV8ARUbzU" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/ghost_person_30x30_v1.png" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3rn0BIHnLbwEubnqrYiZIcX" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3rn0BIHnLbwEubnqrYiZIcX" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/2fdb202.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_3tuhFZSemuUGDeRGOo76tDJp7E6ffhkExV8pdCWoTusr3LQDeQ5IajY5ZiNqiXOm" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_3tuhFZSemuUGDeRGOo76tDJp7E6ffhkExV8pdCWoTusr3LQDeQ5IajY5ZiNqiXOm" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/3273b71.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3pShtkAgQDOkI0hAUVc7x4J" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3pShtkAgQDOkI0hAUVc7x4J" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/11df35c.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8PxRPw-g8r7DOUntsGeh5eD" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8PxRPw-g8r7DOUntsGeh5eD" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/28b23bd.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3ro8-HuRyy4UBi9aqnYiwzF" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3ro8-HuRyy4UBi9aqnYiwzF" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/3eecad1.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3qNOQZ74_jQHxn6VnR1EGf4" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3qNOQZ74_jQHxn6VnR1EGf4" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/AAEAAQAAAAAAAANvAAAAJDg0Njk2NjZlLTkzMTYtNGQ3ZC04ZWIzLWI1YWRi.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3pVY9nQ5hgILFXdgmx7kdls" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3pVY9nQ5hgILFXdgmx7kdls" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/ghost_person_30x30_v1.png" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8OXJ7lB_vPfL8yiH3uq6clU" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8OXJ7lB_vPfL8yiH3uq6clU" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/AAEAAQAAAAAAAARkAAAAJDQ4OGNlY2FhLWZlNjMtNDg1MC04OTVmLTk5YzMy.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li class="endorsers-action">
+                  <a class="see-all-endorsers" href="javascript:void(0)" role="button">
+                   <span class="loader">
+                   </span>
+                  </a>
+                 </li>
+                </ul>
+                <a class="endorse-button" href="javascript:void(0)" role="button">
+                 <span class="endorsing">
+                  <span class="endorse-plus">
+                  </span>
+                  <span class="endorse-minus">
+                  </span>
+                  <span class="endorse-text">
+                   Endorse
+                  </span>
+                  <span class="unendorse-text">
+                   Remove Endorsement
+                  </span>
+                 </span>
+                 <span class="line-container">
+                  <span class="hr-line">
+                  </span>
+                 </span>
+                </a>
+               </div>
+              </li>
+              <li class="endorse-item has-endorsements endorsable" data-endorsed-item-name="Testing" data-endorsement-id="">
+               <span class="skill-pill">
+                <a class="endorse-count" href="javascript:void(0)" role="button" title="See endorsers">
+                 <span class="num-endorsements" data-count="13">
+                  13
+                 </span>
+                </a>
+                <span class="endorse-item-name">
+                 <a class="endorse-item-name-text" href="https://www.linkedin.com/topic/testing?trk=mprofile_topic" title="Learn more about this skill">
+                  Testing
+                 </a>
+                </span>
+               </span>
+               <div class="endorsers-container">
+                <ul class="endorsers-pics">
+                 <li class="viewer-pic-container">
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3qmNk_r7tEdvwqBv4w3OneM" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3qmNk_r7tEdvwqBv4w3OneM" data-tracking="">
+                   <strong>
+                    <img class="viewer-pic small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/AAEAAQAAAAAAAALMAAAAJDVmZTJmMGU2LTc2MjItNGM1OS04ZTM2LTgzMzkx.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8MR14lggnTlznxtcg2yFvPm" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8MR14lggnTlznxtcg2yFvPm" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/0d2b9a5.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_3tuhFZSemuUGDeRGOo76tDJp7E6ffhkExV8pdCWoTutnRWneEsEbq-h6dGn8MNN8" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_3tuhFZSemuUGDeRGOo76tDJp7E6ffhkExV8pdCWoTutnRWneEsEbq-h6dGn8MNN8" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/03001bf.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3rn9840JZd1NHEH8zqDhfeN" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3rn9840JZd1NHEH8zqDhfeN" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/3bdb500.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_3tuhFZSemuUGDeRGOo76tDJp7E6ffhkExV8pdCWoTuvo-i3LAgkGCE_HcRnqCQic" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_3tuhFZSemuUGDeRGOo76tDJp7E6ffhkExV8pdCWoTuvo-i3LAgkGCE_HcRnqCQic" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/28d66a7.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8Ml1uNr3rvIEa7hjXBo2R62" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8Ml1uNr3rvIEa7hjXBo2R62" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/ghost_person_30x30_v1.png" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8NOjQpGULvS1UQrNSRF0xRy" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8NOjQpGULvS1UQrNSRF0xRy" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/ghost_person_30x30_v1.png" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3pnExVol8QfcFElP3v2umLe" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3pnExVol8QfcFElP3v2umLe" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/106cc7e.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3olemlpFZaRuZnsV8ARUbzU" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3olemlpFZaRuZnsV8ARUbzU" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/ghost_person_30x30_v1.png" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3rn0BIHnLbwEubnqrYiZIcX" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3rn0BIHnLbwEubnqrYiZIcX" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/2fdb202.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_3tuhFZSemuUGDeRGOo76tDJp7E6ffhkExV8pdCWoTusr3LQDeQ5IajY5ZiNqiXOm" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_3tuhFZSemuUGDeRGOo76tDJp7E6ffhkExV8pdCWoTusr3LQDeQ5IajY5ZiNqiXOm" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/3273b71.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8Ng9OXiVMQKingtLiS2vT2-" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8Ng9OXiVMQKingtLiS2vT2-" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/ghost_person_30x30_v1.png" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li class="endorsers-action">
+                  <a class="see-all-endorsers" href="javascript:void(0)" role="button">
+                   <span class="loader">
+                   </span>
+                  </a>
+                 </li>
+                </ul>
+                <a class="endorse-button" href="javascript:void(0)" role="button">
+                 <span class="endorsing">
+                  <span class="endorse-plus">
+                  </span>
+                  <span class="endorse-minus">
+                  </span>
+                  <span class="endorse-text">
+                   Endorse
+                  </span>
+                  <span class="unendorse-text">
+                   Remove Endorsement
+                  </span>
+                 </span>
+                 <span class="line-container">
+                  <span class="hr-line">
+                  </span>
+                 </span>
+                </a>
+               </div>
+              </li>
+              <li class="endorse-item has-endorsements endorsable" data-endorsed-item-name="Visual Basic" data-endorsement-id="">
+               <span class="skill-pill">
+                <a class="endorse-count" href="javascript:void(0)" role="button" title="See endorsers">
+                 <span class="num-endorsements" data-count="11">
+                  11
+                 </span>
+                </a>
+                <span class="endorse-item-name">
+                 <a class="endorse-item-name-text" href="https://www.linkedin.com/topic/visual-basic?trk=mprofile_topic" title="Learn more about this skill">
+                  Visual Basic
+                 </a>
+                </span>
+               </span>
+               <div class="endorsers-container">
+                <ul class="endorsers-pics">
+                 <li class="viewer-pic-container">
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3qmNk_r7tEdvwqBv4w3OneM" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3qmNk_r7tEdvwqBv4w3OneM" data-tracking="">
+                   <strong>
+                    <img class="viewer-pic small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/AAEAAQAAAAAAAALMAAAAJDVmZTJmMGU2LTc2MjItNGM1OS04ZTM2LTgzMzkx.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3rn9840JZd1NHEH8zqDhfeN" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3rn9840JZd1NHEH8zqDhfeN" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/3bdb500.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_3tuhFZSemuUGDeRGOo76tDJp7E6ffhkExV8pdCWoTuvo-i3LAgkGCE_HcRnqCQic" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_3tuhFZSemuUGDeRGOo76tDJp7E6ffhkExV8pdCWoTuvo-i3LAgkGCE_HcRnqCQic" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/28d66a7.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8NZS7dAjcipWW8xqtTfoiGd" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8NZS7dAjcipWW8xqtTfoiGd" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/025c63e.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8Mkx-i1kDqef5fAyV1fJbAI" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8Mkx-i1kDqef5fAyV1fJbAI" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/1207f81.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8MR14lggnTlznxtcg2yFvPm" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8MR14lggnTlznxtcg2yFvPm" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/0d2b9a5.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8NS5-RpC4AFSyxsOwmOA1-d" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8NS5-RpC4AFSyxsOwmOA1-d" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/1d8e401.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3pnExVol8QfcFElP3v2umLe" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3pnExVol8QfcFElP3v2umLe" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/106cc7e.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3rNZ_gOUvDqvX-7M9bApMhK" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3rNZ_gOUvDqvX-7M9bApMhK" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/2a53cfe.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3olemlpFZaRuZnsV8ARUbzU" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3olemlpFZaRuZnsV8ARUbzU" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/ghost_person_30x30_v1.png" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3rn0BIHnLbwEubnqrYiZIcX" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3rn0BIHnLbwEubnqrYiZIcX" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/2fdb202.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_3tuhFZSemuUGDeRGOo76tDJp7E6ffhkExV8pdCWoTusr3LQDeQ5IajY5ZiNqiXOm" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_3tuhFZSemuUGDeRGOo76tDJp7E6ffhkExV8pdCWoTusr3LQDeQ5IajY5ZiNqiXOm" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/3273b71.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li class="endorsers-action">
+                  <a class="see-all-endorsers" href="javascript:void(0)" role="button">
+                   <span class="loader">
+                   </span>
+                  </a>
+                 </li>
+                </ul>
+                <a class="endorse-button" href="javascript:void(0)" role="button">
+                 <span class="endorsing">
+                  <span class="endorse-plus">
+                  </span>
+                  <span class="endorse-minus">
+                  </span>
+                  <span class="endorse-text">
+                   Endorse
+                  </span>
+                  <span class="unendorse-text">
+                   Remove Endorsement
+                  </span>
+                 </span>
+                 <span class="line-container">
+                  <span class="hr-line">
+                  </span>
+                 </span>
+                </a>
+               </div>
+              </li>
+              <li class="endorse-item has-endorsements endorsable" data-endorsed-item-name="Software Design" data-endorsement-id="">
+               <span class="skill-pill">
+                <a class="endorse-count" href="javascript:void(0)" role="button" title="See endorsers">
+                 <span class="num-endorsements" data-count="10">
+                  10
+                 </span>
+                </a>
+                <span class="endorse-item-name">
+                 <a class="endorse-item-name-text" href="https://www.linkedin.com/topic/software-design?trk=mprofile_topic" title="Learn more about this skill">
+                  Software Design
+                 </a>
+                </span>
+               </span>
+               <div class="endorsers-container">
+                <ul class="endorsers-pics">
+                 <li class="viewer-pic-container">
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3qmNk_r7tEdvwqBv4w3OneM" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3qmNk_r7tEdvwqBv4w3OneM" data-tracking="">
+                   <strong>
+                    <img class="viewer-pic small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/AAEAAQAAAAAAAALMAAAAJDVmZTJmMGU2LTc2MjItNGM1OS04ZTM2LTgzMzkx.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_3tuhFZSemuUGDeRGOo76tDJp7E6ffhkExV8pdCWoTuvo-i3LAgkGCE_HcRnqCQic" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_3tuhFZSemuUGDeRGOo76tDJp7E6ffhkExV8pdCWoTuvo-i3LAgkGCE_HcRnqCQic" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/28d66a7.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8Ml0sZ7oQyv36TZzo5qa8zF" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8Ml0sZ7oQyv36TZzo5qa8zF" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/AAEAAQAAAAAAAAPtAAAAJGViODUwY2EzLWQ1M2UtNDAyOC1iNDE0LWNmMWU1.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3rNZ_gOUvDqvX-7M9bApMhK" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3rNZ_gOUvDqvX-7M9bApMhK" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/2a53cfe.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8Ng9OXiVMQKingtLiS2vT2-" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8Ng9OXiVMQKingtLiS2vT2-" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/ghost_person_30x30_v1.png" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3pnExVol8QfcFElP3v2umLe" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3pnExVol8QfcFElP3v2umLe" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/106cc7e.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_3tuhFZSemuUGDeRGOo76tDJp7E6ffhkExV8pdCWoTusr3LQDeQ5IajY5ZiNqiXOm" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_3tuhFZSemuUGDeRGOo76tDJp7E6ffhkExV8pdCWoTusr3LQDeQ5IajY5ZiNqiXOm" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/3273b71.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3rn0BIHnLbwEubnqrYiZIcX" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3rn0BIHnLbwEubnqrYiZIcX" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/2fdb202.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8Pci88wHOMcuh3ieFfBxhdm" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8Pci88wHOMcuh3ieFfBxhdm" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/348b8fb.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8OGksplh3qRFKm3MtMEa_vN" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8OGksplh3qRFKm3MtMEa_vN" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/2dac521.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3olemlpFZaRuZnsV8ARUbzU" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3olemlpFZaRuZnsV8ARUbzU" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/ghost_person_30x30_v1.png" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li class="endorsers-action">
+                  <a class="see-all-endorsers" href="javascript:void(0)" role="button">
+                   <span class="loader">
+                   </span>
+                  </a>
+                 </li>
+                </ul>
+                <a class="endorse-button" href="javascript:void(0)" role="button">
+                 <span class="endorsing">
+                  <span class="endorse-plus">
+                  </span>
+                  <span class="endorse-minus">
+                  </span>
+                  <span class="endorse-text">
+                   Endorse
+                  </span>
+                  <span class="unendorse-text">
+                   Remove Endorsement
+                  </span>
+                 </span>
+                 <span class="line-container">
+                  <span class="hr-line">
+                  </span>
+                 </span>
+                </a>
+               </div>
+              </li>
+              <li class="endorse-item has-endorsements endorsable" data-endorsed-item-name="Integration" data-endorsement-id="">
+               <span class="skill-pill">
+                <a class="endorse-count" href="javascript:void(0)" role="button" title="See endorsers">
+                 <span class="num-endorsements" data-count="10">
+                  10
+                 </span>
+                </a>
+                <span class="endorse-item-name">
+                 <a class="endorse-item-name-text" href="https://www.linkedin.com/topic/integration?trk=mprofile_topic" title="Learn more about this skill">
+                  Integration
+                 </a>
+                </span>
+               </span>
+               <div class="endorsers-container">
+                <ul class="endorsers-pics">
+                 <li class="viewer-pic-container">
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3qmNk_r7tEdvwqBv4w3OneM" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3qmNk_r7tEdvwqBv4w3OneM" data-tracking="">
+                   <strong>
+                    <img class="viewer-pic small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/AAEAAQAAAAAAAALMAAAAJDVmZTJmMGU2LTc2MjItNGM1OS04ZTM2LTgzMzkx.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8NHKTdkx03lGn4x8GoKxd_I" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8NHKTdkx03lGn4x8GoKxd_I" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/2ef0f33.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8MR14lggnTlznxtcg2yFvPm" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8MR14lggnTlznxtcg2yFvPm" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/0d2b9a5.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8OXJ7lB_vPfL8yiH3uq6clU" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8OXJ7lB_vPfL8yiH3uq6clU" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/AAEAAQAAAAAAAARkAAAAJDQ4OGNlY2FhLWZlNjMtNDg1MC04OTVmLTk5YzMy.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3qtoiNAX-NAutmdi45fAGkw" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3qtoiNAX-NAutmdi45fAGkw" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/252deb9.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3pShtkAgQDOkI0hAUVc7x4J" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3pShtkAgQDOkI0hAUVc7x4J" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/11df35c.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3pnExVol8QfcFElP3v2umLe" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3pnExVol8QfcFElP3v2umLe" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/106cc7e.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_3tuhFZSemuUGDeRGOo76tDJp7E6ffhkExV8pdCWoTusr3LQDeQ5IajY5ZiNqiXOm" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_3tuhFZSemuUGDeRGOo76tDJp7E6ffhkExV8pdCWoTusr3LQDeQ5IajY5ZiNqiXOm" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/3273b71.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3olemlpFZaRuZnsV8ARUbzU" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3olemlpFZaRuZnsV8ARUbzU" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/ghost_person_30x30_v1.png" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3rn0BIHnLbwEubnqrYiZIcX" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_VQV8-V-t3JKW-l5j694yj6CdSDRuElcInmzcIf1LN3rn0BIHnLbwEubnqrYiZIcX" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/2fdb202.jpg" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li>
+                  <span class="new-miniprofile-container /profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8Ng9OXiVMQKingtLiS2vT2-" data-li-tl="tl/shared/profile/mini_profile_shell" data-li-url="/profile/mini-profile-with-connections?_ed=0_bWNDj98R3Qat_RfHw1YD3A6sBKqhO5wbjJciMVxdE8Ng9OXiVMQKingtLiS2vT2-" data-tracking="">
+                   <strong>
+                    <img class="endorser small-thumbnail " height="30" src="Loh%20Weihan%20_%20LinkedIn_files/ghost_person_30x30_v1.png" width="30"/>
+                   </strong>
+                  </span>
+                 </li>
+                 <li class="endorsers-action">
+                  <a class="see-all-endorsers" href="javascript:void(0)" role="button">
+                   <span class="loader">
+                   </span>
+                  </a>
+                 </li>
+                </ul>
+                <a class="endorse-button" href="javascript:void(0)" role="button">
+                 <span class="endorsing">
+                  <span class="endorse-plus">
+                  </span>
+                  <span class="endorse-minus">
+                  </span>
+                  <span class="endorse-text">
+                   Endorse
+                  </span>
+                  <span class="unendorse-text">
+                   Remove Endorsement
+                  </span>
+                 </span>
+                 <span class="line-container">
+                  <span class="hr-line">
+                  </span>
+                 </span>
+                </a>
+               </div>
+              </li>
+             </ul>
+             <h5>
+              Loh also knows about...
+             </h5>
+             <ul class="skills-section compact-view">
+              <li class="endorse-item has-endorsements endorsable" data-endorsed-item-name="Embedded Systems" data-endorsement-id="">
+               <div>
+                <span class="skill-pill">
+                 <a class="endorse-count" href="javascript:void(0)" role="button" title="See endorsers">
+                  <span class="num-endorsements" data-count="9">
+                   9
+                  </span>
+                 </a>
+                 <span class="endorse-item-name">
+                  <a class="endorse-item-name-text" href="https://www.linkedin.com/topic/embedded-systems?trk=mprofile_topic" title="Learn more about this skill">
+                   Embedded Systems
+                  </a>
+                 </span>
+                </span>
+                <a class="endorse-button" href="javascript:void(0)" role="button">
+                 <span class="endorsing">
+                  <span class="endorse-plus">
+                  </span>
+                  <span class="endorse-minus">
+                  </span>
+                 </span>
+                </a>
+               </div>
+              </li>
+              <li class="endorse-item has-endorsements endorsable" data-endorsed-item-name="Software Engineering" data-endorsement-id="">
+               <div>
+                <span class="skill-pill">
+                 <a class="endorse-count" href="javascript:void(0)" role="button" title="See endorsers">
+                  <span class="num-endorsements" data-count="8">
+                   8
+                  </span>
+                 </a>
+                 <span class="endorse-item-name">
+                  <a class="endorse-item-name-text" href="https://www.linkedin.com/topic/software-engineering?trk=mprofile_topic" title="Learn more about this skill">
+                   Software Engineering
+                  </a>
+                 </span>
+                </span>
+                <a class="endorse-button" href="javascript:void(0)" role="button">
+                 <span class="endorsing">
+                  <span class="endorse-plus">
+                  </span>
+                  <span class="endorse-minus">
+                  </span>
+                 </span>
+                </a>
+               </div>
+              </li>
+              <li class="endorse-item has-endorsements endorsable" data-endorsed-item-name="ClearCase" data-endorsement-id="">
+               <div>
+                <span class="skill-pill">
+                 <a class="endorse-count" href="javascript:void(0)" role="button" title="See endorsers">
+                  <span class="num-endorsements" data-count="8">
+                   8
+                  </span>
+                 </a>
+                 <span class="endorse-item-name">
+                  <a class="endorse-item-name-text" href="https://www.linkedin.com/topic/clearcase?trk=mprofile_topic" title="Learn more about this skill">
+                   ClearCase
+                  </a>
+                 </span>
+                </span>
+                <a class="endorse-button" href="javascript:void(0)" role="button">
+                 <span class="endorsing">
+                  <span class="endorse-plus">
+                  </span>
+                  <span class="endorse-minus">
+                  </span>
+                 </span>
+                </a>
+               </div>
+              </li>
+              <li class="endorse-item has-endorsements endorsable" data-endorsed-item-name="Manufacturing" data-endorsement-id="">
+               <div>
+                <span class="skill-pill">
+                 <a class="endorse-count" href="javascript:void(0)" role="button" title="See endorsers">
+                  <span class="num-endorsements" data-count="7">
+                   7
+                  </span>
+                 </a>
+                 <span class="endorse-item-name">
+                  <a class="endorse-item-name-text" href="https://www.linkedin.com/topic/manufacturing?trk=mprofile_topic" title="Learn more about this skill">
+                   Manufacturing
+                  </a>
+                 </span>
+                </span>
+                <a class="endorse-button" href="javascript:void(0)" role="button">
+                 <span class="endorsing">
+                  <span class="endorse-plus">
+                  </span>
+                  <span class="endorse-minus">
+                  </span>
+                 </span>
+                </a>
+               </div>
+              </li>
+              <li class="endorse-item has-endorsements endorsable" data-endorsed-item-name="PL/SQL" data-endorsement-id="">
+               <div>
+                <span class="skill-pill">
+                 <a class="endorse-count" href="javascript:void(0)" role="button" title="See endorsers">
+                  <span class="num-endorsements" data-count="6">
+                   6
+                  </span>
+                 </a>
+                 <span class="endorse-item-name">
+                  <a class="endorse-item-name-text" href="https://www.linkedin.com/topic/pl%2Fsql?trk=mprofile_topic" title="Learn more about this skill">
+                   PL/SQL
+                  </a>
+                 </span>
+                </span>
+                <a class="endorse-button" href="javascript:void(0)" role="button">
+                 <span class="endorsing">
+                  <span class="endorse-plus">
+                  </span>
+                  <span class="endorse-minus">
+                  </span>
+                 </span>
+                </a>
+               </div>
+              </li>
+              <li class="endorse-item has-endorsements endorsable" data-endorsed-item-name="UML" data-endorsement-id="">
+               <div>
+                <span class="skill-pill">
+                 <a class="endorse-count" href="javascript:void(0)" role="button" title="See endorsers">
+                  <span class="num-endorsements" data-count="6">
+                   6
+                  </span>
+                 </a>
+                 <span class="endorse-item-name">
+                  <a class="endorse-item-name-text" href="https://www.linkedin.com/topic/uml?trk=mprofile_topic" title="Learn more about this skill">
+                   UML
+                  </a>
+                 </span>
+                </span>
+                <a class="endorse-button" href="javascript:void(0)" role="button">
+                 <span class="endorsing">
+                  <span class="endorse-plus">
+                  </span>
+                  <span class="endorse-minus">
+                  </span>
+                 </span>
+                </a>
+               </div>
+              </li>
+              <li class="endorse-item has-endorsements endorsable" data-endorsed-item-name="Unix Shell Scripting" data-endorsement-id="">
+               <div>
+                <span class="skill-pill">
+                 <a class="endorse-count" href="javascript:void(0)" role="button" title="See endorsers">
+                  <span class="num-endorsements" data-count="4">
+                   4
+                  </span>
+                 </a>
+                 <span class="endorse-item-name">
+                  <a class="endorse-item-name-text" href="https://www.linkedin.com/topic/unix-shell-scripting?trk=mprofile_topic" title="Learn more about this skill">
+                   Unix Shell Scripting
+                  </a>
+                 </span>
+                </span>
+                <a class="endorse-button" href="javascript:void(0)" role="button">
+                 <span class="endorsing">
+                  <span class="endorse-plus">
+                  </span>
+                  <span class="endorse-minus">
+                  </span>
+                 </span>
+                </a>
+               </div>
+              </li>
+              <li class="endorse-item has-endorsements endorsable" data-endorsed-item-name="Automation" data-endorsement-id="">
+               <div>
+                <span class="skill-pill">
+                 <a class="endorse-count" href="javascript:void(0)" role="button" title="See endorsers">
+                  <span class="num-endorsements" data-count="4">
+                   4
+                  </span>
+                 </a>
+                 <span class="endorse-item-name">
+                  <a class="endorse-item-name-text" href="https://www.linkedin.com/topic/automation?trk=mprofile_topic" title="Learn more about this skill">
+                   Automation
+                  </a>
+                 </span>
+                </span>
+                <a class="endorse-button" href="javascript:void(0)" role="button">
+                 <span class="endorsing">
+                  <span class="endorse-plus">
+                  </span>
+                  <span class="endorse-minus">
+                  </span>
+                 </span>
+                </a>
+               </div>
+              </li>
+              <li class="endorse-item has-endorsements endorsable" data-endorsed-item-name="C" data-endorsement-id="">
+               <div>
+                <span class="skill-pill">
+                 <a class="endorse-count" href="javascript:void(0)" role="button" title="See endorsers">
+                  <span class="num-endorsements" data-count="3">
+                   3
+                  </span>
+                 </a>
+                 <span class="endorse-item-name">
+                  <a class="endorse-item-name-text" href="https://www.linkedin.com/topic/c?trk=mprofile_topic" title="Learn more about this skill">
+                   C
+                  </a>
+                 </span>
+                </span>
+                <a class="endorse-button" href="javascript:void(0)" role="button">
+                 <span class="endorsing">
+                  <span class="endorse-plus">
+                  </span>
+                  <span class="endorse-minus">
+                  </span>
+                 </span>
+                </a>
+               </div>
+              </li>
+              <li class="endorse-item has-endorsements endorsable" data-endorsed-item-name="C#" data-endorsement-id="">
+               <div>
+                <span class="skill-pill">
+                 <a class="endorse-count" href="javascript:void(0)" role="button" title="See endorsers">
+                  <span class="num-endorsements" data-count="3">
+                   3
+                  </span>
+                 </a>
+                 <span class="endorse-item-name">
+                  <a class="endorse-item-name-text" href="https://www.linkedin.com/topic/c%23?trk=mprofile_topic" title="Learn more about this skill">
+                   C#
+                  </a>
+                 </span>
+                </span>
+                <a class="endorse-button" href="javascript:void(0)" role="button">
+                 <span class="endorsing">
+                  <span class="endorse-plus">
+                  </span>
+                  <span class="endorse-minus">
+                  </span>
+                 </span>
+                </a>
+               </div>
+              </li>
+              <li class="endorse-item has-endorsements endorsable" data-endorsed-item-name="Agile Methodologies" data-endorsement-id="">
+               <div>
+                <span class="skill-pill">
+                 <a class="endorse-count" href="javascript:void(0)" role="button" title="See endorsers">
+                  <span class="num-endorsements" data-count="3">
+                   3
+                  </span>
+                 </a>
+                 <span class="endorse-item-name">
+                  <a class="endorse-item-name-text" href="https://www.linkedin.com/topic/agile-methodologies?trk=mprofile_topic" title="Learn more about this skill">
+                   Agile Methodologies
+                  </a>
+                 </span>
+                </span>
+                <a class="endorse-button" href="javascript:void(0)" role="button">
+                 <span class="endorsing">
+                  <span class="endorse-plus">
+                  </span>
+                  <span class="endorse-minus">
+                  </span>
+                 </span>
+                </a>
+               </div>
+              </li>
+              <li class="endorse-item has-endorsements endorsable" data-endorsed-item-name="SECS/GEM" data-endorsement-id="">
+               <div>
+                <span class="skill-pill">
+                 <a class="endorse-count" href="javascript:void(0)" role="button" title="See endorsers">
+                  <span class="num-endorsements" data-count="2">
+                   2
+                  </span>
+                 </a>
+                 <span class="endorse-item-name">
+                  <a class="endorse-item-name-text" href="https://www.linkedin.com/topic/secs%2Fgem?trk=mprofile_topic" title="Learn more about this skill">
+                   SECS/GEM
+                  </a>
+                 </span>
+                </span>
+                <a class="endorse-button" href="javascript:void(0)" role="button">
+                 <span class="endorsing">
+                  <span class="endorse-plus">
+                  </span>
+                  <span class="endorse-minus">
+                  </span>
+                 </span>
+                </a>
+               </div>
+              </li>
+              <li class="endorse-item has-endorsements endorsable" data-endorsed-item-name="Requirements Analysis" data-endorsement-id="">
+               <div>
+                <span class="skill-pill">
+                 <a class="endorse-count" href="javascript:void(0)" role="button" title="See endorsers">
+                  <span class="num-endorsements" data-count="2">
+                   2
+                  </span>
+                 </a>
+                 <span class="endorse-item-name">
+                  <a class="endorse-item-name-text" href="https://www.linkedin.com/topic/requirements-analysis?trk=mprofile_topic" title="Learn more about this skill">
+                   Requirements Analysis
+                  </a>
+                 </span>
+                </span>
+                <a class="endorse-button" href="javascript:void(0)" role="button">
+                 <span class="endorsing">
+                  <span class="endorse-plus">
+                  </span>
+                  <span class="endorse-minus">
+                  </span>
+                 </span>
+                </a>
+               </div>
+              </li>
+              <li class="endorse-item has-endorsements endorsable" data-endorsed-item-name="SQL" data-endorsement-id="">
+               <div>
+                <span class="skill-pill">
+                 <a class="endorse-count" href="javascript:void(0)" role="button" title="See endorsers">
+                  <span class="num-endorsements" data-count="2">
+                   2
+                  </span>
+                 </a>
+                 <span class="endorse-item-name">
+                  <a class="endorse-item-name-text" href="https://www.linkedin.com/topic/sql?trk=mprofile_topic" title="Learn more about this skill">
+                   SQL
+                  </a>
+                 </span>
+                </span>
+                <a class="endorse-button" href="javascript:void(0)" role="button">
+                 <span class="endorsing">
+                  <span class="endorse-plus">
+                  </span>
+                  <span class="endorse-minus">
+                  </span>
+                 </span>
+                </a>
+               </div>
+              </li>
+              <li class="endorse-item has-endorsements endorsable" data-endorsed-item-name="Databases" data-endorsement-id="">
+               <div>
+                <span class="skill-pill">
+                 <a class="endorse-count" href="javascript:void(0)" role="button" title="See endorsers">
+                  <span class="num-endorsements" data-count="2">
+                   2
+                  </span>
+                 </a>
+                 <span>
+                 </span>
+                </span>
+               </div>
+              </li>
+             </ul>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </body>
+</html>
